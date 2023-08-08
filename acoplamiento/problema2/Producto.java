@@ -1,4 +1,4 @@
-package acoplamiento.problema6;
+package acoplamiento.problema2;
 
 public class Producto {
     public String nombre;

@@ -1,4 +1,4 @@
-package acoplamiento.problema6;
+package acoplamiento.problema2;
 
 import java.util.ArrayList;
 

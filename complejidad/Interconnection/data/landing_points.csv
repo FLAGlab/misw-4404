@@ -1,0 +1,1280 @@
+landing_point_id,id,name,latitude,longitude
+3316,abidjan-cte-divoire,"Abidjan, Cote d'Ivoire",5.323519,-4.026241
+4181,accra-ghana,"Accra, Ghana",5.558283,-0.201097
+3036,barcelona-spain,"Barcelona, Spain",41.385621,2.168762
+4554,bude-united-kingdom,"Bude, United Kingdom",50.828110,-4.544405
+3921,cape-town-south-africa,"Cape Town, South Africa",-33.919094,18.421985
+14331,carcavelos-portugal,"Carcavelos, Portugal",38.690163,-9.331560
+4180,dakar-senegal,"Dakar, Senegal",14.686598,-17.451915
+4182,dar-es-salaam-tanzania,"Dar Es Salaam, Tanzania",-6.823229,39.269675
+4177,djibouti-city-djibouti,"Djibouti City, Djibouti",11.594678,43.147993
+3117,genoa-italy,"Genoa, Italy",44.410344,8.938911
+3280,lagos-nigeria,"Lagos, Nigeria",6.438875,3.423216
+4221,libreville-gabon,"Libreville, Gabon",0.394269,9.454364
+5901,mahajanga-madagascar,"Mahajanga, Madagascar",-15.713730,46.315520
+4252,maputo-mozambique,"Maputo, Mozambique",-25.968533,32.580618
+3210,marseille-france,"Marseille, France",43.293165,5.372629
+4255,mogadishu-somalia,"Mogadishu, Somalia",2.041166,45.344158
+5896,mombasa-kenya,"Mombasa, Kenya",-4.053207,39.672800
+5942,mtunzini-south-africa,"Mtunzini, South Africa",-28.950641,31.757864
+9426,muanda-congo-dem-rep-,"Muanda, Democratic Republic of the Congo",-5.933359,12.349870
+16376,nacala-mozambique,"Nacala, Mozambique",-14.565607,40.685446
+5971,pointe-noire-congo-rep-,"Pointe-Noire, Republic of the Congo",-4.779092,11.863640
+8847,port-elizabeth-south-africa,"Port Elizabeth, South Africa",-33.962499,25.623274
+9487,port-said-egypt,"Port Said, Egypt",31.259289,32.284475
+5950,port-sudan-sudan,"Port Sudan, Sudan",19.615564,37.219677
+18092,ras-ghareb-egypt,"Ras Ghareb, Egypt",28.365915,33.082790
+5924,salalah-oman,"Salalah, Oman",17.095826,54.148083
+5825,suez-egypt,"Suez, Egypt",29.972288,32.530129
+9269,yanbu-saudi-arabia,"Yanbu, Saudi Arabia",24.070556,38.106981
+9486,zafarana-egypt,"Zafarana, Egypt",29.116687,32.649856
+4067,anchorage-ak-united-states,"Anchorage, AK, United States",61.217460,-149.858371
+8539,florence-or-united-states,"Florence, OR, United States",43.982134,-124.099838
+8392,homer-ak-united-states,"Homer, AK, United States",59.646366,-151.544307
+8540,nikiski-ak-united-states,"Nikiski, AK, United States",60.689824,-151.291719
+5969,aden-yemen,"Aden, Yemen",12.800684,45.033538
+6024,corfu-greece,"Corfu, Greece",39.619298,19.919494
+6043,dubrovnik-croatia,"Dubrovnik, Croatia",42.641862,18.106409
+6025,durres-albania,"Durres, Albania",41.316693,19.450060
+14732,killala-ireland,"Killala, Ireland",54.206829,-9.232195
+3783,shirley-ny-united-states,"Shirley, NY, United States",40.800284,-72.872237
+14813,bejaia-algeria,"Bejaia, Algeria",36.757033,5.066379
+10093,berbera-somalia,"Berbera, Somalia",10.435116,45.010882
+5958,bizerte-tunisia,"Bizerte, Tunisia",37.276350,9.867352
+19123,duba-saudi-arabia,"Duba, Saudi Arabia",27.354022,35.696533
+17183,kalba-united-arab-emirates,"Kalba, United Arab Emirates",25.051524,56.339976
+3259,karachi-pakistan,"Karachi, Pakistan",24.889374,67.028542
+16693,mocha-yemen,"Mocha, Yemen",13.320294,43.247334
+3177,palermo-italy,"Palermo, Italy",38.121501,13.358366
+4348,banjul-gambia,"Banjul, Gambia",13.455945,-16.581359
+9434,bata-equatorial-guinea,"Bata, Equatorial Guinea",1.860070,9.768231
+4208,conakry-guinea,"Conakry, Guinea",9.513624,-13.703822
+3315,cotonou-benin,"Cotonou, Benin",6.356578,2.439916
+17037,duynefontein-south-africa,"Duynefontein, South Africa",-33.693323,18.449915
+4212,freetown-sierra-leone,"Freetown, Sierra Leone",8.485331,-13.238100
+17556,granadilla-canary-islands-spain,"Granadilla, Canary Islands, Spain",28.059116,-16.518054
+10095,kribi-cameroon,"Kribi, Cameroon",2.932918,9.910419
+4178,monrovia-liberia,"Monrovia, Liberia",6.300076,-10.797184
+4192,nouakchott-mauritania,"Nouakchott, Mauritania",18.083871,-15.978284
+3119,penmarch-france,"Penmarch, France",47.811315,-4.338692
+4263,sao-tome-sao-tome-and-principe,"Sao Tome, Sao Tome and Principe",0.333291,6.733297
+17036,suro-guinea-bissau,"Suro, Guinea-Bissau",11.774132,-15.791146
+4816,juneau-ak-united-states,"Juneau, AK, United States",58.299507,-134.406862
+5770,lynnwood-wa-united-states,"Lynnwood, WA, United States",47.823996,-122.315855
+5764,valdez-ak-united-states,"Valdez, AK, United States",61.130353,-146.353341
+6255,whittier-ak-united-states,"Whittier, AK, United States",60.772930,-148.684739
+8553,angoon-ak-united-states,"Angoon, AK, United States",57.501841,-134.582252
+8552,hawk-inlet-ak-united-states,"Hawk Inlet, AK, United States",58.128107,-134.741822
+8550,petersburg-ak-united-states,"Petersburg, AK, United States",56.807613,-132.970046
+8554,sitka-ak-united-states,"Sitka, AK, United States",57.052913,-135.334400
+8549,wrangell-ak-united-states,"Wrangell, AK, United States",56.470797,-132.383816
+15023,mchugh-point-ak-united-states,"McHugh Point, AK, United States",61.015715,-149.732199
+15022,portage-ak-united-states,"Portage, AK, United States",60.828289,-148.989817
+5755,seward-ak-united-states,"Seward, AK, United States",60.112189,-149.443137
+6191,warrenton-or-united-states,"Warrenton, OR, United States",46.165128,-123.923861
+8352,la-guaira-venezuela,"La Guaira, Venezuela",10.603154,-66.889624
+7688,ocho-rios-jamaica,"Ocho Rios, Jamaica",18.398555,-77.103191
+14733,santiago-de-cuba-cuba,"Santiago de Cuba, Cuba",20.028794,-75.828974
+8351,siboney-cuba,"Siboney, Cuba",19.963638,-75.712372
+6044,alexandria-egypt,"Alexandria, Egypt",31.191886,29.889799
+6030,tartous-syria,"Tartous, Syria",34.891705,35.897803
+5776,baby-beach-aruba,"Baby Beach, Aruba",12.414142,-69.878685
+10729,willemstad-curaao,"Willemstad, Curaçao",12.095319,-68.896605
+5774,el-djamila-algeria,"El Djamila, Algeria",36.800219,2.901439
+5948,ses-covetes-spain,"Ses Covetes, Spain",39.354540,2.970971
+4315,barranquilla-colombia,"Barranquilla, Colombia",10.940462,-74.779756
+3842,cancn-mexico,"Cancún, Mexico",21.095725,-86.767552
+5693,cartagena-colombia,"Cartagena, Colombia",10.386695,-75.505683
+3347,fortaleza-brazil,"Fortaleza, Brazil",-3.718834,-38.542965
+3650,hollywood-fl-united-states,"Hollywood, FL, United States",26.010202,-80.160233
+3655,jacksonville-fl-united-states,"Jacksonville, FL, United States",30.331761,-81.655740
+5848,puerto-barrios-guatemala,"Puerto Barrios, Guatemala",15.727144,-88.597238
+5823,puerto-plata-dominican-republic,"Puerto Plata, Dominican Republic",19.799344,-70.691233
+3242,rio-de-janeiro-brazil,"Rio de Janeiro, Brazil",-22.903394,-43.209563
+3342,salvador-brazil,"Salvador, Brazil",-12.969985,-38.504635
+4262,san-juan-pr-united-states,"San Juan, PR, United States",18.465839,-66.106666
+5758,magens-bay-vi-united-states,"Magen’s Bay, VI, United States",18.372989,-64.937087
+3813,vero-beach-fl-united-states,"Vero Beach, FL, United States",27.638390,-80.394266
+5966,camuri-venezuela,"Camuri, Venezuela",10.606454,-66.878199
+5575,cayenne-french-guiana,"Cayenne, French Guiana",4.941367,-52.321080
+5905,le-lamentin-martinique,"Le Lamentin, Martinique",14.615536,-61.094267
+5762,miramar-pr-united-states,"Miramar, PR, United States",18.453415,-66.082887
+4236,port-of-spain-trinidad-and-tobago,"Port of Spain, Trinidad and Tobago",10.649789,-61.516679
+5750,st-croix-vi-united-states,"St. Croix, VI, United States",17.771864,-64.819411
+14635,kralendijk-bonaire-netherlands,"Kralendijk, Bonaire, Netherlands",12.150685,-68.276684
+18123,le-porge-france,"Le Porge, France",44.893828,-1.211874
+3683,lynn-ma-united-states,"Lynn, MA, United States",42.463669,-70.950266
+5773,isla-verde-pr-united-states,"Isla Verde, PR, United States",18.441650,-66.016871
+5694,punta-cana-dominican-republic,"Punta Cana, Dominican Republic",18.621280,-68.438256
+4242,santo-domingo-dominican-republic,"Santo Domingo, Dominican Republic",18.500004,-69.983275
+3218,batangas-philippines,"Batangas, Philippines",13.765553,121.064930
+4183,busan-south-korea,"Busan, South Korea",35.170282,128.999470
+5885,chikura-japan,"Chikura, Japan",34.976658,139.954663
+5802,chongming-china,"Chongming, China",31.619883,121.395203
+5939,katong-singapore,"Katong, Singapore",1.309282,103.904688
+5703,kitaibaraki-japan,"Kitaibaraki, Japan",36.801783,140.750951
+5903,kuantan-malaysia,"Kuantan, Malaysia",3.815165,103.322560
+5852,lantau-island-china,"Lantau Island, China",22.271492,113.948333
+5803,shantou-china,"Shantou, China",23.354555,116.675480
+5982,tanshui-taiwan,"Tanshui, Taiwan",25.181361,121.462586
+5723,chania-greece,"Chania, Greece",35.511805,24.012167
+5811,yeroskipos-cyprus,"Yeroskipos, Cyprus",34.766411,32.466555
+5837,lannion-france,"Lannion, France",48.730257,-3.459933
+3686,manasquan-nj-united-states,"Manasquan, NJ, United States",40.123341,-74.047041
+3319,auckland-new-zealand,"Auckland, New Zealand",-36.884414,174.770458
+7855,canterbury-new-zealand,"Canterbury, New Zealand",-43.494186,171.707374
+7853,manawatu-wanganui-new-zealand,"Manawatu-Wanganui, New Zealand",-39.625442,175.618212
+7854,marlborough-new-zealand,"Marlborough, New Zealand",-41.527246,173.580713
+7852,taranaki-new-zealand,"Taranaki, New Zealand",-39.287855,174.371533
+7851,waikato-new-zealand,"Waikato, New Zealand",-37.915898,175.534911
+4052,wellington-new-zealand,"Wellington, New Zealand",-41.280546,174.767138
+5791,belize-city-belize,"Belize City, Belize",17.495547,-88.181614
+5920,bluefields-nicaragua,"Bluefields, Nicaragua",11.991778,-83.771461
+5784,cat-island-bahamas,"Cat Island, Bahamas",24.403329,-75.525898
+5782,crooked-island-bahamas,"Crooked Island, Bahamas",22.629712,-74.194990
+5928,maria-chiquita-panama,"Maria Chiquita, Panama",9.437336,-79.753544
+4230,nassau-bahamas,"Nassau, Bahamas",25.067038,-77.340252
+5772,north-miami-beach-fl-united-states,"North Miami Beach, FL, United States",25.932943,-80.162381
+4258,providenciales-turks-and-caicos-islands,"Providenciales, Turks and Caicos Islands",21.851092,-72.120236
+5921,puerto-cabezas-nicaragua,"Puerto Cabezas, Nicaragua",14.021605,-83.393922
+5851,puerto-cortes-honduras,"Puerto Cortes, Honduras",15.844798,-87.946067
+5692,puerto-lempira-honduras,"Puerto Lempira, Honduras",15.261221,-83.776759
+5810,puerto-limon-costa-rica,"Puerto Limon, Costa Rica",9.988606,-83.037672
+5965,punto-fijo-venezuela,"Punto Fijo, Venezuela",11.708793,-70.204258
+5807,riohacha-colombia,"Riohacha, Colombia",11.482909,-72.952706
+5850,trujillo-honduras,"Trujillo, Honduras",15.915151,-85.954760
+5908,tulum-mexico,"Tulum, Mexico",20.212553,-87.463597
+16514,cabo-espiritu-santo-argentina,"Cabo Espiritu Santo , Argentina",-52.658894,-68.605785
+16513,punta-dungeness-argentina,"Punta Dungeness, Argentina",-52.390230,-68.419750
+9485,abu-talat-egypt,"Abu Talat, Egypt",31.071849,29.702495
+15019,al-bustan-oman,"Al Bustan, Oman",23.576086,58.606087
+3160,bari-italy,"Bari, Italy",41.125492,16.866664
+6007,cape-daguilar-china,"Cape D’Aguilar, China",22.208037,114.260247
+3867,doha-qatar,"Doha, Qatar",25.294341,51.519374
+5962,fujairah-united-arab-emirates,"Fujairah, United Arab Emirates",25.121693,56.333726
+4361,jeddah-saudi-arabia,"Jeddah, Saudi Arabia",21.481259,39.182761
+15018,kuala-kurau-malaysia,"Kuala Kurau, Malaysia",5.019464,100.397073
+3212,mumbai-india,"Mumbai, India",19.075797,72.875902
+14639,ngwe-saung-myanmar,"Ngwe Saung, Myanmar",16.858028,94.391218
+5956,satun-thailand,"Satun, Thailand",6.613214,100.066117
+9118,sihanoukville-cambodia,"Sihanoukville, Cambodia",10.630006,103.506642
+4265,songkhla-thailand,"Songkhla, Thailand",7.078450,100.596976
+6013,vung-tau-vietnam,"Vung Tau, Vietnam",10.341846,107.079198
+5940,changi-north-singapore,"Changi North, Singapore",1.389045,103.987012
+5754,keawaula-hi-united-states,"Keawaula, HI, United States",21.548769,-158.242038
+10340,la-union-philippines,"La Union, Philippines",16.582591,120.389637
+5902,mersing-malaysia,"Mersing, Malaysia",2.295512,103.849903
+3772,san-luis-obispo-ca-united-states,"San Luis Obispo, CA, United States",35.285014,-120.662731
+6014,sriracha-thailand,"Sriracha, Thailand",13.174440,100.930545
+3251,tanguisson-point-gu-united-states,"Tanguisson Point, GU, United States",13.549098,144.809347
+5970,tungku-brunei,"Tungku, Brunei",4.926371,114.885833
+5856,chung-hom-kok-china,"Chung Hom Kok, China",22.225033,114.205657
+5887,maruyama-japan,"Maruyama, Japan",35.037519,139.816967
+17229,quy-nhon-vietnam,"Quy Nhon, Vietnam",13.782958,109.219650
+5938,tuas-singapore,"Tuas, Singapore",1.338193,103.647071
+5986,danang-vietnam,"Danang, Vietnam",16.051560,108.214744
+5804,nanhui-china,"Nanhui, China",30.864714,121.925069
+5883,shima-japan,"Shima, Japan",34.336891,136.874294
+9135,tanah-merah-singapore,"Tanah Merah, Singapore",1.327258,103.946583
+5981,toucheng-taiwan,"Toucheng, Taiwan",24.863593,121.801453
+5857,tseung-kwan-o-china,"Tseung Kwan O, China",22.318296,114.258685
+5937,changi-south-singapore,"Changi South, Singapore",1.389435,103.987012
+10355,daet-philippines,"Daet, Philippines",14.116616,122.949889
+17508,komesu-japan,"Komesu, Japan",26.087759,127.700795
+5973,piti-gu-united-states,"Piti, GU, United States",13.464683,144.694698
+16551,sasanlagu-rota-northern-mariana-islands,"Sasanlagu, Rota, Northern Mariana Islands",14.144932,145.134346
+16550,sugar-dock-saipan-northern-mariana-islands,"Sugar Dock, Saipan, Northern Mariana Islands",15.151812,145.699580
+16552,tachognya-beach-tinian-northern-mariana-islands,"Tachognya Beach, Tinian, Northern Mariana Islands",14.958771,145.629268
+3080,beverwijk-netherlands,"Beverwijk, Netherlands",52.486313,4.656907
+4512,brookhaven-ny-united-states,"Brookhaven, NY, United States",40.773148,-72.912276
+3142,sylt-germany,"Sylt, Germany",54.898506,8.383369
+3081,whitesands-bay-united-kingdom,"Whitesands Bay, United Kingdom",50.078517,-5.698457
+5944,conil-spain,"Conil, Spain",36.276563,-6.087226
+5722,el-mdano-canary-islands-spain,"El Médano, Canary Islands, Spain",28.046656,-16.538586
+3330,las-toninas-argentina,"Las Toninas, Argentina",-36.472530,-56.695491
+4257,praia-cape-verde,"Praia, Cape Verde",14.923011,-23.521247
+5910,asilah-morocco,"Asilah, Morocco",35.470777,-6.035761
+17106,akutan-ak-united-states,"Akutan, AK, United States",54.135646,-165.773057
+17371,chignik-bay-ak-united-states,"Chignik Bay, AK, United States",56.294527,-158.408809
+17372,chignik-lagoon-ak-united-states,"Chignik Lagoon, AK, United States",56.321349,-158.507229
+17373,chignik-lake-ak-united-states,"Chignik Lake, AK, United States",56.254981,-158.772091
+17368,cold-bay-ak-united-states,"Cold Bay, AK, United States",55.204142,-162.704030
+17105,false-pass-ak-united-states,"False Pass, AK, United States",54.850929,-163.415000
+17367,king-cove-ak-united-states,"King Cove, AK, United States",55.049224,-162.304420
+8394,kodiak-ak-united-states,"Kodiak, AK, United States",57.794136,-152.395283
+17374,larsen-bay-ak-united-states,"Larsen Bay, AK, United States",57.537325,-153.985971
+17370,perryville-ak-united-states,"Perryville, AK, United States",55.917506,-159.144791
+17369,sand-point-ak-united-states,"Sand Point, AK, United States",55.341545,-160.496301
+17107,unalaska-ak-united-states,"Unalaska, AK, United States",53.884529,-166.533243
+8722,balboa-panama,"Balboa, Panama",8.950027,-79.566678
+4357,georgetown-cayman-islands,"Georgetown, Cayman Islands",19.296600,-81.381704
+8918,manta-ecuador,"Manta, Ecuador",-0.950020,-80.716189
+3779,sarasota-fl-united-states,"Sarasota, FL, United States",27.338874,-82.539626
+5778,oxford-falls-australia,"Oxford Falls, Australia",-33.737386,151.245084
+5779,paddington-new-south-wales-australia,"Paddington, New South Wales, Australia",-33.882123,151.228678
+5972,tumon-bay-gu-united-states,"Tumon Bay, GU, United States",13.513588,144.800558
+14605,anyer-indonesia,"Anyer, Indonesia",-6.073698,105.883910
+17023,flying-fish-cove-christmas-island,"Flying Fish Cove, Christmas Island",-10.437359,105.697070
+3239,perth-australia,"Perth, Australia",-31.953439,115.857219
+14840,chindini-comoros,"Chindini, Comoros",-11.923498,43.489106
+9134,mamoudzou-mayotte,"Mamoudzou, Mayotte",-12.783309,45.233294
+4227,moroni-comoros,"Moroni, Comoros",-11.700694,43.243403
+14841,mutsamudu-comoros,"Mutsamudu, Comoros",-12.166657,44.400043
+18076,siyazan-azerbaijan,"Siyazan, Azerbaijan",41.075398,49.112407
+18077,turkmenbashi-turkmenistan,"Turkmenbashi, Turkmenistan",40.003424,52.962429
+14836,angra-do-heroismo-portugal,"Angra do Heroismo, Portugal",38.658523,-27.215824
+14659,faial-portugal,"Faial, Portugal",38.525100,-28.647562
+14658,graciosa-portugal,"Graciosa, Portugal",39.011030,-27.963480
+5945,ponta-delgada-portugal,"Ponta Delgada, Portugal",37.739217,-25.668755
+14834,sao-mateus-portugal,"Sao Mateus, Portugal",38.432290,-28.461234
+14833,velas-portugal,"Velas, Portugal",38.683845,-28.213187
+14835,vila-do-porto-portugal,"Vila do Porto, Portugal",36.956764,-25.141265
+5862,batam-indonesia,"Batam, Indonesia",1.134725,103.962501
+16015,batu-prahu-indonesia,"Batu Prahu, Indonesia",-3.079925,106.547460
+3012,jakarta-indonesia,"Jakarta, Indonesia",-6.171890,106.827831
+16014,pesaren-indonesia,"Pesaren, Indonesia",-1.553876,105.582714
+5783,eight-mile-rock-bahamas,"Eight-Mile Rock, Bahamas",26.539626,-78.802861
+10360,clarence-town-bahamas,"Clarence Town, Bahamas",23.098343,-74.966181
+10364,cockburn-town-bahamas,"Cockburn Town, Bahamas",24.052532,-74.530244
+10361,duncan-town-bahamas,"Duncan Town, Bahamas",22.183262,-75.733466
+10358,fresh-creek-bahamas,"Fresh Creek, Bahamas",24.689806,-77.844609
+10359,george-town-bahamas,"George Town, Bahamas",23.516552,-75.788007
+10357,governors-harbor-bahamas,"Governors Harbor, Bahamas",25.196119,-76.240643
+5785,hawksbill-bahamas,"Hawksbill, Bahamas",26.516908,-78.736845
+9581,matthew-town-bahamas,"Matthew Town, Bahamas",20.950513,-73.683077
+10362,mayaguana-bahamas,"Mayaguana, Bahamas",22.401565,-73.064132
+10363,port-nelson-bahamas,"Port Nelson, Bahamas",23.652143,-74.840547
+3878,port-au-prince-haiti,"Port-au-Prince, Haiti",18.542692,-72.343136
+5788,sandy-point-bahamas,"Sandy Point, Bahamas",26.025209,-77.399529
+3563,boca-raton-fl-united-states,"Boca Raton, FL, United States",26.350323,-80.088944
+5786,caves-point-bahamas,"Caves Point, Bahamas",25.068453,-77.452996
+8355,crown-haven-bahamas,"Crown Haven, Bahamas",26.912504,-77.821953
+5787,current-bahamas,"Current, Bahamas",25.407833,-76.787664
+8354,riding-point-bahamas,"Riding Point, Bahamas",26.616744,-78.245879
+8357,spanish-river-park-fl-united-states,"Spanish River Park, FL, United States",26.378060,-80.067704
+4723,palma-spain,"Palma, Spain",39.552326,2.605248
+3066,valencia-spain,"Valencia, Spain",39.468309,-0.376976
+16516,senggigi-indonesia,"Senggigi, Indonesia",-8.485457,116.047282
+16515,seraya-indonesia,"Seraya, Indonesia",-8.386261,115.746672
+3064,helsinki-finland,"Helsinki, Finland",60.171075,24.932478
+3063,stockholm-sweden,"Stockholm, Sweden",59.332209,18.062854
+3089,tallinn-estonia,"Tallinn, Estonia",59.436200,24.752400
+5820,gedser-denmark,"Gedser, Denmark",54.576349,11.928972
+5933,kolobrzeg-poland,"Kolobrzeg, Poland",54.172346,15.574868
+5822,pedersker-denmark,"Pedersker, Denmark",55.030925,14.992153
+5954,ystad-sweden,"Ystad, Sweden",55.431333,13.828287
+7813,boat-harbour-tasmania-australia,"Boat Harbour, Tasmania, Australia",-40.950868,145.623799
+10799,sandy-point-australia,"Sandy Point, Australia",-38.820183,146.119697
+7860,inverloch-australia,"Inverloch, Australia",-38.633453,145.729463
+7861,stanley-australia,"Stanley, Australia",-40.760375,145.294112
+10796,four-mile-bluff-australia,"Four Mile Bluff, Australia",-41.033277,146.850166
+10797,mcgaurans-beach-australia,"McGaurans Beach, Australia",-38.443616,147.071259
+7311,dumai-indonesia,"Dumai, Indonesia",1.665606,101.447561
+6300,melaka-malaysia,"Melaka, Malaysia",2.273178,102.220900
+8970,rengit-malaysia,"Rengit, Malaysia",1.677137,103.147657
+15731,tanjung-pinang-indonesia,"Tanjung Pinang, Indonesia",1.083333,104.483328
+17376,kg-buntai-malaysia,"Kg Buntai, Malaysia",1.675088,110.293621
+9096,tanjung-bemban-indonesia,"Tanjung Bemban, Indonesia",1.173205,104.133106
+3029,singapore-singapore,"Singapore, Singapore",1.293661,103.853028
+8947,barka-oman,"Barka, Oman",23.679435,58.004330
+4191,chennai-india,"Chennai, India",13.063485,80.243084
+3307,penang-malaysia,"Penang, Malaysia",5.353649,100.362991
+14621,ratmalana-sri-lanka,"Ratmalana, Sri Lanka",6.820388,79.889275
+10365,katthammarsvik-sweden,"Katthammarsvik, Sweden",57.431039,18.845276
+5311,sventoji-lithuania,"Sventoji, Lithuania",56.028288,21.082384
+5310,liepaja-latvia,"Liepaja, Latvia",56.508187,21.011290
+7694,hanko-finland,"Hanko, Finland",59.823210,22.968222
+9104,haradsholm-finland,"Haradsholm, Finland",60.300969,22.302109
+5830,mariehamn-finland,"Mariehamn, Finland",60.113837,19.937853
+5952,stavsnas-sweden,"Stavsnas, Sweden",59.292780,18.688335
+4552,kotka-finland,"Kotka, Finland",60.501041,26.883551
+9102,logi-russia,"Logi, Russia",59.799885,28.499859
+3862,beirut-lebanon,"Beirut, Lebanon",33.892474,35.485205
+6047,saida-lebanon,"Saida, Lebanon",33.450191,35.386280
+6046,trablous-lebanon,"Trablous, Lebanon",34.439420,35.859131
+5949,mt-lavinia-sri-lanka,"Mt. Lavinia, Sri Lanka",6.832702,79.866717
+7678,tuticorine-india,"Tuticorine, India",8.802197,78.145136
+5963,maldonado-uruguay,"Maldonado, Uruguay",-34.900380,-54.950180
+3902,davao-philippines,"Davao, Philippines",7.079989,125.612778
+3678,los-angeles-ca-united-states,"Los Angeles, CA, United States",34.053394,-118.245350
+4538,bergen-norway,"Bergen, Norway",60.390703,5.332761
+5923,krst-norway,"Kårstø, Norway",59.279266,5.524387
+3132,stavanger-norway,"Stavanger, Norway",58.970835,5.730793
+10225,bod-norway,"Bodø, Norway",67.286001,14.400076
+17145,rst-norway,"Røst, Norway",67.502560,12.070117
+9385,coron-philippines,"Coron, Philippines",12.005056,120.200697
+7841,san-jose-philippines,"San Jose, Philippines",12.362576,121.050111
+14655,taytay-philippines,"Taytay, Philippines",10.819603,119.500380
+17570,aguadilla-pr-united-states,"Aguadilla, PR, United States",18.427498,-67.154859
+13397,frederiksted-virgin-islands-u-s-,"Frederiksted, Virgin Islands (U.S.)",17.712430,-64.881520
+17572,humacao-pr-united-states,"Humacao, PR, United States",18.117763,-65.781263
+17573,macao-beach-dominican-republic,"Macao Beach, Dominican Republic",18.649121,-68.358080
+17571,ponce-pr-united-states,"Ponce, PR, United States",17.982654,-66.626612
+6004,ume-sweden,"Umeå, Sweden",63.825870,20.262951
+5052,vaasa-finland,"Vaasa, Finland",63.095195,21.616368
+3356,aracaj-brazil,"Aracajú, Brazil",-10.909604,-37.074802
+16690,atafona-brazil,"Atafona, Brazil",-21.631161,-41.027240
+4590,ilhus-brazil,"Ilhéus, Brazil",-14.787976,-39.047701
+3351,joo-pessoa-brazil,"João Pessoa, Brazil",-7.115293,-34.861034
+3387,maca-brazil,"Macaé, Brazil",-22.371806,-41.785638
+3344,macei-brazil,"Maceió, Brazil",-9.666468,-35.734959
+3354,natal-brazil,"Natal, Brazil",-5.794830,-35.211180
+5493,porto-seguro-brazil,"Porto Seguro, Brazil",-16.451086,-39.064693
+3352,recife-brazil,"Recife, Brazil",-8.055335,-34.871971
+16689,sitio-brazil,"Sitio, Brazil",-11.846666,-37.570505
+5506,so-mateus-brazil,"São Mateus, Brazil",-18.716705,-39.859126
+3343,vitria-brazil,"Vitória, Brazil",-20.294018,-40.301655
+4862,virginia-beach-va-united-states,"Virginia Beach, VA, United States",36.755008,-76.059198
+15840,achnaba-united-kingdom,"Achnaba, United Kingdom",56.019420,-5.365791
+15871,aikerness-united-kingdom,"Aikerness , United Kingdom",59.350456,-2.959152
+15874,ardbeg-point-united-kingdom,"Ardbeg Point, United Kingdom",55.858590,-5.063594
+15876,ardgour-united-kingdom,"Ardgour, United Kingdom",56.721568,-5.233662
+15857,ardmair-united-kingdom,"Ardmair, United Kingdom",57.934079,-5.196211
+15842,ardnacross-united-kingdom,"Ardnacross, United Kingdom",55.476549,-5.533418
+15845,ardneil-bay-united-kingdom,"Ardneil Bay, United Kingdom",55.693046,-4.889375
+15863,ardvasar-united-kingdom,"Ardvasar, United Kingdom",57.059372,-5.906465
+15875,ardyne-point-united-kingdom,"Ardyne Point, United Kingdom",55.869413,-5.019991
+15868,balla-united-kingdom,"Balla, United Kingdom",57.081522,-7.312176
+15870,bay-of-tuquoy-united-kingdom,"Bay of Tuquoy, United Kingdom",59.279768,-2.939523
+15841,blackwaterfoot-united-kingdom,"Blackwaterfoot, United Kingdom",55.501952,-5.332100
+15858,branahuie-bay-united-kingdom,"Branahuie Bay, United Kingdom",58.209062,-6.310761
+15866,calgary-united-kingdom,"Calgary, United Kingdom",56.582124,-6.272382
+15873,coilleag-united-kingdom,"Coilleag, United Kingdom",57.073614,-7.302216
+15856,corran-united-kingdom,"Corran, United Kingdom",56.722526,-5.245381
+15844,corrie-united-kingdom,"Corrie, United Kingdom",55.643650,-5.141426
+15850,craighouse-united-kingdom,"Craighouse, United Kingdom",55.833672,-5.953828
+15843,down-craig-united-kingdom,"Down Craig, United Kingdom",55.780156,-4.900459
+15854,duart-bay-united-kingdom,"Duart Bay, United Kingdom",56.455839,-5.669355
+15861,dunvegan-united-kingdom,"Dunvegan, United Kingdom",57.436322,-6.581659
+15847,feolin-ferry-united-kingdom,"Feolin Ferry, United Kingdom",55.846750,-6.089912
+15855,ganavan-bay-united-kingdom,"Ganavan Bay, United Kingdom",56.437764,-5.475801
+15849,glenbarr-united-kingdom,"Glenbarr, United Kingdom",55.565500,-5.697578
+15838,kilchatten-bay-united-kingdom,"Kilchatten Bay, United Kingdom",55.751842,-5.028096
+15852,kilchoan-ferry-united-kingdom,"Kilchoan Ferry, United Kingdom",56.688572,-6.093964
+15848,lagavulin-united-kingdom,"Lagavulin, United Kingdom",55.636113,-6.125410
+15837,largs-united-kingdom,"Largs, United Kingdom",55.793341,-4.867305
+15859,leverburgh-united-kingdom,"Leverburgh, United Kingdom",57.769405,-7.008368
+15860,lochmaddy-united-kingdom,"Lochmaddy, United Kingdom",57.603696,-7.163348
+15867,ludag-united-kingdom,"Ludag, United Kingdom",57.105535,-7.328143
+15864,mallaigvaig-united-kingdom,"Mallaigvaig, United Kingdom",57.008478,-5.820429
+15869,north-bay-united-kingdom,"North Bay, United Kingdom",57.025291,-7.449481
+15851,ormsary-united-kingdom,"Ormsary, United Kingdom",55.891680,-5.614570
+15839,otter-ferry-united-kingdom,"Otter Ferry, United Kingdom",56.008284,-5.321211
+15846,port-askaig-united-kingdom,"Port Askaig, United Kingdom",55.847736,-6.106318
+15872,portachur-point-united-kingdom,"Portachur Point, United Kingdom",55.742765,-4.943868
+15862,sandwick-village-united-kingdom,"Sandwick Village, United Kingdom",57.366696,-7.274139
+15865,scarinish-united-kingdom,"Scarinish, United Kingdom",56.503788,-6.808515
+15853,tobermory-united-kingdom,"Tobermory, United Kingdom",56.621849,-6.070283
+13373,ballyhornan-united-kingdom,"Ballyhornan, United Kingdom",54.302045,-5.559394
+13374,groudle-bay-isle-of-man,"Groudle Bay, Isle of Man",54.166979,-4.423897
+13372,peel-isle-of-man,"Peel, Isle of Man",54.222447,-4.691426
+13375,silecroft-beach-united-kingdom,"Silecroft Beach, United Kingdom",54.210627,-3.357150
+6033,broadstairs-united-kingdom,"Broadstairs, United Kingdom",51.358887,1.439429
+18162,callantsoog-netherlands,"Callantsoog, Netherlands",52.836926,4.700759
+5789,ostend-belgium,"Ostend, Belgium",51.231123,2.912670
+3269,winterton-on-sea-united-kingdom,"Winterton-on-Sea, United Kingdom",52.715209,1.693547
+5934,sesimbra-portugal,"Sesimbra, Portugal",38.442693,-9.102751
+3130,rostock-germany,"Rostock, Germany",54.078893,12.132390
+17400,murdeira-cape-verde,"Murdeira, Cape Verde",16.677110,-22.935310
+17399,sal-rei-cape-verde,"Sal Rei, Cape Verde",16.177172,-22.919038
+17401,sao-pedro-cape-verde,"Sao Pedro, Cape Verde",16.823422,-25.060809
+17392,tarrafalsao-nicolau-cape-verde,"Tarrafal—Sao Nicolau, Cape Verde",16.565883,-24.357159
+17390,porto-novosanto-antao-cape-verde,"Porto Novo—Santo Antao, Cape Verde",17.019200,-25.059442
+17396,tarrafalsantiago-cape-verde,"Tarrafal—Santiago, Cape Verde",15.276848,-23.751069
+17395,nova-sintra-cape-verde,"Nova Sintra, Cape Verde",14.872993,-24.695404
+17394,sao-filipe-cape-verde,"Sao Filipe, Cape Verde",14.897142,-24.500922
+17393,vila-do-maio-cape-verde,"Vila do Maio, Cape Verde",15.138355,-23.209785
+5812,pentaskhinos-cyprus,"Pentaskhinos, Cyprus",34.828481,33.603566
+5935,funchal-portugal,"Funchal, Portugal",32.646866,-16.908947
+7784,porto-santo-portugal,"Porto Santo, Portugal",33.047316,-16.347668
+10726,el-goro-canary-islands-spain,"El Goro, Canary Islands, Spain",27.959398,-15.398743
+16017,gimar-canary-islands-spain,"Güimar, Canary Islands, Spain",28.310583,-16.412561
+10400,rota-spain,"Rota, Spain",36.626270,-6.363007
+7776,santa-cruz-de-la-palma-canary-islands-spain,"Santa Cruz de La Palma, Canary Islands, Spain",28.663182,-17.765245
+16016,tinocas-canary-islands-spain,"Tinocas, Canary Islands, Spain",28.134359,-15.487708
+5720,alta-vista-canary-islands-spain,"Alta Vista, Canary Islands, Spain",27.999501,-15.699963
+7775,candelaria-canary-islands-spain,"Candelaria, Canary Islands, Spain",28.355538,-16.371740
+5818,blaabjerg-denmark,"Blaabjerg, Denmark",55.751674,8.329194
+10780,south-arne-denmark,"South Arne, Denmark",56.078288,4.228392
+5724,tjornuvik-faroe-islands,"Tjornuvik, Faroe Islands",62.289921,-7.147235
+10782,tyra-denmark,"Tyra, Denmark",55.715607,4.748508
+10781,valdemar-denmark,"Valdemar, Denmark",55.804072,4.564329
+5858,vestmannaeyjar-iceland,"Vestmannaeyjar, Iceland",63.437687,-20.267294
+5748,grover-beach-ca-united-states,"Grover Beach, CA, United States",35.120633,-120.621422
+18138,pagudpud-philippines,"Pagudpud, Philippines",18.624237,120.857986
+5793,st-davids-bermuda,"St. David’s, Bermuda",32.312235,-64.769509
+9589,tortola-virgin-islands-u-k-,"Tortola, Virgin Islands (U.K.)",18.414782,-64.597243
+3824,west-palm-beach-fl-united-states,"West Palm Beach, FL, United States",26.715358,-80.053348
+17318,bequia-saint-vincent-and-the-grenadines,"Bequia, Saint Vincent and the Grenadines",12.997564,-61.244707
+17320,canouan-saint-vincent-and-the-grenadines,"Canouan, Saint Vincent and the Grenadines",12.699638,-61.338957
+17322,carriacou-grenada,"Carriacou, Grenada",12.473707,-61.478618
+17314,chateaubelair-saint-vincent-and-the-grenadines,"Chateaubelair, Saint Vincent and the Grenadines",13.290916,-61.240837
+17316,conference-grenada,"Conference, Grenada",12.161210,-61.606388
+4219,kingstown-saint-vincent-and-the-grenadines,"Kingstown, Saint Vincent and the Grenadines",13.145437,-61.208256
+17319,mustique-saint-vincent-and-the-grenadines,"Mustique, Saint Vincent and the Grenadines",12.877712,-61.187126
+17315,owia-saint-vincent-and-the-grenadines,"Owia, Saint Vincent and the Grenadines",13.373101,-61.142778
+17321,union-island-saint-vincent-and-the-grenadines,"Union Island, Saint Vincent and the Grenadines",12.611405,-61.443181
+9594,balchik-bulgaria,"Balchik, Bulgaria",43.414341,28.167437
+5530,poti-georgia,"Poti, Georgia",42.150771,41.667623
+7689,bull-bay-jamaica,"Bull Bay, Jamaica",17.949941,-76.666652
+6048,cayman-brac-cayman-islands,"Cayman Brac, Cayman Islands",19.690333,-79.877640
+5799,half-moon-bay-cayman-islands,"Half Moon Bay, Cayman Islands",19.282958,-81.166775
+19248,port-antonio-jamaica,"Port Antonio, Jamaica",18.176324,-76.446080
+4224,malabo-equatorial-guinea,"Malabo, Equatorial Guinea",3.749793,8.783369
+17708,caithness-united-kingdom,"Caithness, United Kingdom",58.568843,-3.794250
+17402,ysanden-norway,"Øysanden, Norway",63.333493,10.216425
+3077,dublin-ireland,"Dublin, Ireland",53.348045,-6.248261
+6035,holyhead-united-kingdom,"Holyhead, United Kingdom",53.306037,-4.630391
+3580,charlestown-ri-united-states,"Charlestown, RI, United States",41.411901,-71.645871
+9069,paget-bermuda,"Paget, Bermuda",32.280536,-64.788698
+14677,blackpool-sands-united-kingdom,"Blackpool Sands, United Kingdom",50.318830,-3.610910
+10380,lancresse-bay-guernsey,"L'Ancresse Bay, Guernsey",49.503393,-2.533469
+17255,car-nicobar-india,"Car Nicobar, India",9.177491,92.816444
+17257,great-nicobar-india,"Great Nicobar, India",7.031331,93.927405
+17252,havelock-india,"Havelock, India",11.976058,92.987562
+17256,kamorta-india,"Kamorta, India",8.172232,93.481409
+17254,little-andaman-india,"Little Andaman, India",10.709053,92.597157
+17251,long-island-india,"Long Island, India",12.396491,92.935072
+17253,port-blair-india,"Port Blair, India",11.623382,92.726478
+17250,rangat-india,"Rangat, India",12.506948,92.913856
+9062,pohnpei-micronesia,"Pohnpei",7.786411,159.070274
+16967,weno-chuuk-micronesia,"Weno, Chuuk",7.439994,151.858487
+3084,lowestoft-united-kingdom,"Lowestoft, United Kingdom",52.471361,1.729175
+3141,zandvoort-netherlands,"Zandvoort, Netherlands",52.370406,4.527219
+6051,cayeux-sur-mer-france,"Cayeux-sur-Mer, France",50.178809,1.493433
+6050,pevensey-bay-united-kingdom,"Pevensey Bay, United Kingdom",50.819019,0.366676
+5916,eemshaven-netherlands,"Eemshaven, Netherlands",53.442805,6.816022
+16951,endrup-denmark,"Endrup, Denmark",55.523118,8.718389
+18155,lanse--beaufils-qc-canada,"L'Anse-à-Beaufils, QC, Canada",48.471770,-64.308964
+18156,les-les-de-la-madeleine-qc-canada,"Les Îles-de-la-Madeleine, QC, Canada",47.382588,-61.955700
+16969,copa-club-jamaica,"Copa Club, Jamaica",17.942953,-76.689361
+8685,morant-point-jamaica,"Morant Point, Jamaica",17.918366,-76.184344
+18142,parque-isla-de-salamanca-colombia,"Parque Isla de Salamanca, Colombia",11.012161,-74.611946
+18141,puerto-colombia-colombia,"Puerto Colombia, Colombia",11.005175,-74.952778
+8720,santa-marta-colombia,"Santa Marta, Colombia",11.241950,-74.205281
+5808,tolu-colombia,"Tolu, Colombia",9.496300,-75.558564
+14842,fomboni-moheli-comoros,"Fomboni Moheli, Comoros",-12.288236,43.739594
+8398,sizewell-united-kingdom,"Sizewell, United Kingdom",52.207130,1.620288
+8399,thorpeness-united-kingdom,"Thorpeness, United Kingdom",52.180842,1.613061
+3139,zeebrugge-belgium,"Zeebrugge, Belgium",51.330721,3.207006
+3707,myrtle-beach-sc-united-states,"Myrtle Beach, SC, United States",33.693568,-78.882676
+17589,sunny-isles-fl-united-states,"Sunny Isles, FL, United States",25.938487,-80.121567
+3822,wall-township-nj-united-states,"Wall Township, NJ, United States",40.152905,-74.062862
+17588,baclayon-philippines,"Baclayon, Philippines",9.622558,123.913547
+17586,bacong-philippines,"Bacong, Philippines",9.246331,123.294956
+9382,bogo-philippines,"Bogo, Philippines",11.045877,124.007652
+17568,boracay-philippines,"Boracay, Philippines",11.949242,121.944812
+17560,buenavista-philippines,"Buenavista, Philippines",8.968922,125.420737
+10658,cagayan-de-oro-philippines,"Cagayan de Oro, Philippines",8.454228,124.631920
+17565,leganes-philippines,"Leganes, Philippines",10.786581,122.589441
+16047,masbate-city-philippines,"Masbate City, Philippines",12.366725,123.616686
+17566,milagros-philippines,"Milagros, Philippines",12.218125,123.509093
+16596,naga-philippines,"Naga, Philippines",10.238242,123.691442
+9387,ormoc-philippines,"Ormoc, Philippines",11.006889,124.612779
+16597,pasacao-philippines,"Pasacao, Philippines",13.547781,122.950646
+7840,roxas-city-philippines,"Roxas City, Philippines",11.583306,122.749987
+17567,roxas-philippines,"Roxas, Philippines",12.586435,121.527747
+17562,san-carlos-philippines,"San Carlos, Philippines",10.483745,123.412877
+17569,san-juan-philippines,"San Juan, Philippines",13.809928,121.448865
+17563,san-remigio-philippines,"San Remigio, Philippines",11.083327,123.936339
+17587,tagbilaran-philippines,"Tagbilaran, Philippines",9.675425,123.878171
+17564,talisay-philippines,"Talisay, Philippines",10.739403,122.967761
+17561,toledo-philippines,"Toledo, Philippines",10.376249,123.635241
+10893,auki-solomon-islands,"Auki, Solomon Islands",-8.774649,160.701328
+10892,honiara-solomon-islands,"Honiara, Solomon Islands",-9.429093,159.949790
+10894,noro-solomon-islands,"Noro, Solomon Islands",-8.242077,157.190661
+3925,port-moresby-papua-new-guinea,"Port Moresby, Papua New Guinea",-9.479606,147.188520
+3030,sydney-new-south-wales-australia,"Sydney, New South Wales, Australia",-33.869880,151.206998
+17241,taro-solomon-islands,"Taro, Solomon Islands",-6.708991,156.395911
+6279,cannes-france,"Cannes, France",43.552927,7.017354
+7765,lle-rousse-france,"L’Île-Rousse, France",42.636510,8.937080
+6053,ajaccio-france,"Ajaccio, France",41.919329,8.738642
+7766,la-seyne-france,"La Seyne, France",43.102908,5.878097
+10368,dadeng-island-china,"Dadeng Island, China",24.556731,118.300967
+10369,guanyin-mountain-china,"Guanyin Mountain, China",24.493917,118.188955
+10366,guningtou-taiwan,"Guningtou, Taiwan",24.476142,118.307119
+10367,lake-ci-taiwan,"Lake Ci, Taiwan",24.455521,118.289737
+3170,brighton-united-kingdom,"Brighton, United Kingdom",50.828478,-0.134435
+18149,veules-les-roses-france,"Veules-les-Roses, France",49.877295,0.797804
+3569,buffalo-ny-united-states,"Buffalo, NY, United States",42.885436,-78.878461
+3033,toronto-on-canada,"Toronto, ON, Canada",43.648557,-79.385320
+4096,el-segundo-ca-united-states,"El Segundo, CA, United States",33.919920,-118.415955
+3331,valparaso-chile,"Valparaíso, Chile",-33.045540,-71.620310
+5861,medan-indonesia,"Medan, Indonesia",3.752132,98.676079
+17176,panipahan-indonesia,"Panipahan, Indonesia",2.452351,100.313315
+8403,barsebck-sweden,"Barsebäck, Sweden",55.770379,12.955436
+8402,tuborg-denmark,"Tuborg, Denmark",55.721953,12.545573
+8994,landeyjar-iceland,"Landeyjar, Iceland",63.642167,-20.142294
+5994,gedebak-odde-denmark,"Gedebak Odde, Denmark",55.012591,14.966665
+5993,mielno-poland,"Mielno, Poland",54.259948,16.062270
+3268,helsingborg-sweden,"Helsingborg, Sweden",56.043844,12.695866
+6065,helsingr-denmark,"Helsingør, Denmark",56.030437,12.592155
+14583,mosede-denmark,"Mosede, Denmark",55.575853,12.273015
+14584,velling-sweden,"Velling, Sweden",55.471062,12.963835
+10737,alsgarde-denmark,"Alsgarde, Denmark",56.074882,12.536882
+10739,kristinelund-sweden,"Kristinelund, Sweden",56.134734,12.588640
+10813,dhangethi-maldives,"Dhangethi, Maldives",3.608093,72.955589
+10812,eydhafushi-maldives,"Eydhafushi, Maldives",5.103230,73.070823
+10817,fuvahmulah-maldives,"Fuvahmulah, Maldives",-0.298304,73.426878
+10815,gahdhoo-maldives,"Gahdhoo, Maldives",0.288802,73.455491
+10814,gan-maldives,"Gan, Maldives",1.918412,73.544651
+10816,hithadhoo-maldives,"Hithadhoo, Maldives",-0.606021,73.089183
+9215,hulhumale-maldives,"Hulhumale, Maldives",4.211943,73.540159
+10811,kulhudhufushi-maldives,"Kulhudhufushi, Maldives",6.622441,73.071409
+3887,colombo-sri-lanka,"Colombo, Sri Lanka",6.926734,79.871990
+4251,male-maldives,"Male, Maldives",4.166264,73.499925
+6015,kelibia-tunisia,"Kelibia, Tunisia",36.849311,11.089910
+3215,mazara-del-vallo-italy,"Mazara del Vallo, Italy",37.650130,12.591276
+16373,bosaso-somalia,"Bosaso, Somalia",11.275568,49.187930
+17979,la-lnea-spain,"La Línea, Spain",36.210322,-5.325190
+17977,playa-de-benitez-spain,"Playa de Benitez, Spain",35.893875,-5.334747
+17978,playa-de-la-ribera-spain,"Playa de la Ribera, Spain",35.886807,-5.313667
+17976,tarifa-spain,"Tarifa, Spain",36.014313,-5.604450
+9775,saint-hilaire-de-riez-france,"Saint-Hilaire-de-Riez, France",46.693996,-1.968312
+8408,blackpool-united-kingdom,"Blackpool, United Kingdom",53.808660,-3.050754
+3171,douglas-isle-of-man,"Douglas, Isle of Man",54.150275,-4.480880
+5884,ajigaura-japan,"Ajigaura, Japan",36.383559,140.612279
+5931,cavite-philippines,"Cavite, Philippines",14.286268,120.820106
+5980,fangshan-taiwan,"Fangshan, Taiwan",22.249202,120.662147
+5983,pa-li-taiwan,"Pa Li, Taiwan",25.149984,121.383191
+6012,qingdao-china,"Qingdao, China",36.087073,120.342567
+5977,shindu-ri-south-korea,"Shindu-Ri, South Korea",36.576252,126.391586
+7808,kuching-malaysia,"Kuching, Malaysia",1.520179,110.353707
+16634,penarik-indonesia,"Penarik, Indonesia",3.666752,108.290232
+16635,terempa-indonesia,"Terempa, Indonesia",3.207108,106.211083
+10120,haina-dominican-republic,"Haina, Dominican Republic",18.698999,-70.161839
+9600,harbour-view-jamaica,"Harbour View, Jamaica",17.949677,-76.716864
+10121,nanny-cay-virgin-islands-u-k-,"Nanny Cay, Virgin Islands (U.K.)",18.414782,-64.597243
+17968,haramous-djibouti,"Haramous, Djibouti",11.573679,43.161669
+7398,toliara-madagascar,"Toliara, Madagascar",-23.354761,43.663129
+15046,akulivik-qc-canada,"Akulivik, QC, Canada",60.817681,-78.144241
+13391,chisasibi-qc-canada,"Chisasibi, QC, Canada",53.773604,-78.893455
+15035,inukjuak-qc-canada,"Inukjuak, QC, Canada",58.455120,-78.105101
+15047,ivujivik-qc-canada,"Ivujivik, QC, Canada",62.416667,-77.916667
+15048,kangiqsujuaq-qc-canada,"Kangiqsujuaq, QC, Canada",61.596260,-71.953886
+15042,kuujjuarapik-qc-canada,"Kuujjuarapik, QC, Canada",55.274567,-77.763768
+15045,puvirnituq-qc-canada,"Puvirnituq, QC, Canada",60.037115,-77.269231
+15036,salluit-qc-canada,"Salluit, QC, Canada",62.201285,-75.646856
+15043,umiujaq-qc-canada,"Umiujaq, QC, Canada",56.551556,-76.547113
+4356,basseterre-saint-kitts-and-nevis,"Basseterre, Saint Kitts and Nevis",17.298452,-62.731229
+4202,bridgetown-barbados,"Bridgetown, Barbados",13.098954,-59.613360
+4207,castries-saint-lucia,"Castries, Saint Lucia",13.994222,-61.006816
+8838,chaguaramas-trinidad-and-tobago,"Chaguaramas, Trinidad and Tobago",10.686161,-61.650810
+4906,pointe-a-pitre-guadeloupe,"Pointe-a-Pitre, Guadeloupe",16.241044,-61.533085
+17317,port-salines-grenada,"Port Salines, Grenada",12.008817,-61.790580
+4260,roseau-dominica,"Roseau, Dominica",15.251799,-61.370732
+10728,saint-maarten-sint-maarten,"Saint Maarten, Sint Maarten",18.031041,-63.073709
+4239,st-johns-antigua-and-barbuda,"St. John’s, Antigua and Barbuda",17.051484,-61.857939
+4195,the-valley-anguilla,"The Valley, Anguilla",18.217405,-63.057205
+19250,agat-gu-united-states,"Agat, GU, United States",13.385310,144.657530
+7261,eureka-ca-united-states,"Eureka, CA, United States",40.803255,-124.159554
+7822,ngeremlengui-palau,"Ngeremlengui, Palau",7.531746,134.560941
+9095,tanjung-pakis-indonesia,"Tanjung Pakis, Indonesia",-5.981256,107.120897
+9754,sines-portugal,"Sines, Portugal",37.957215,-8.869597
+10313,clonshaugh-ireland,"Clonshaugh, Ireland",53.410056,-6.197919
+17310,laeso-denmark,"Laeso, Denmark",57.256996,10.887135
+17311,varberg-sweden,"Varberg, Sweden",57.105309,12.251277
+10320,lyngsa-denmark,"Lyngsa, Denmark",57.244805,10.514618
+6170,balluta-bay-malta,"Balluta Bay, Malta",35.934060,14.380045
+3214,catania-italy,"Catania, Italy",37.511589,15.067446
+3146,lisbon-portugal,"Lisbon, Portugal",38.725683,-9.150189
+5941,melkbosstrand-south-africa,"Melkbosstrand, South Africa",-33.727214,18.445764
+17591,ruperts-bay-saint-helena-ascension-and-tristan-da-cunha,"Rupert's Bay, Saint Helena",-15.918595,-5.711486
+9845,swakopmund-namibia,"Swakopmund, Namibia",-22.678326,14.528091
+5863,kilmore-quay-ireland,"Kilmore Quay, Ireland",52.174585,-6.584101
+5742,sennen-cove-united-kingdom,"Sennen Cove, United Kingdom",50.076057,-5.698750
+5865,sandymount-ireland,"Sandymount, Ireland",53.331420,-6.215449
+3324,southport-united-kingdom,"Southport, United Kingdom",53.647931,-3.006369
+5943,estepona-spain,"Estepona, Spain",36.427102,-5.145869
+5909,ttouan-morocco,"Tétouan, Morocco",35.565921,-5.391816
+8948,gibraltar-gibraltar,"Gibraltar, Gibraltar",36.155938,-5.347676
+3255,monaco-monaco,"Monaco, Monaco",43.732622,7.417647
+4271,tripoli-libya,"Tripoli, Libya",32.877299,13.187272
+9596,al-faw-iraq,"Al Faw, Iraq",29.923295,48.531778
+7679,al-ghaydah-yemen,"Al Ghaydah, Yemen",16.210382,52.182361
+7681,al-hudaydah-yemen,"Al Hudaydah, Yemen",14.685559,43.008540
+7729,al-khobar-saudi-arabia,"Al Khobar, Saudi Arabia",26.286172,50.214199
+4294,al-safat-kuwait,"Al Safat, Kuwait",29.369931,47.976505
+7646,al-seeb-oman,"Al Seeb, Oman",23.684700,58.176107
+8848,bandar-abbas-iran,"Bandar Abbas, Iran",27.187167,56.274351
+8849,chabahar-iran,"Chabahar, Iran",25.298226,60.629621
+3270,dubai-united-arab-emirates,"Dubai, United Arab Emirates",25.269340,55.308433
+7645,khasab-oman,"Khasab, Oman",26.181307,56.246812
+4188,manama-bahrain,"Manama, Bahrain",26.228972,50.575820
+7706,trivendrum-india,"Trivendrum, India",8.798144,76.970235
+15833,okha-russia,"Okha, Russia",53.577549,142.942453
+15834,ola-russia,"Ola, Russia",59.583344,151.283366
+15832,ust-bolsheretsk-russia,"Ust-Bolsheretsk, Russia",52.812414,156.287073
+5746,dunnet-bay-united-kingdom,"Dunnet Bay, United Kingdom",58.615312,-3.346212
+5725,funningsfjordur-faroe-islands,"Funningsfjordur, Faroe Islands",62.244107,-6.928144
+5859,seydisfjordur-iceland,"Seydisfjordur, Iceland",65.251345,-14.018031
+3225,aldeburgh-united-kingdom,"Aldeburgh, United Kingdom",52.157843,1.590600
+3144,domburg-netherlands,"Domburg, Netherlands",51.563953,3.496166
+3554,bandon-or-united-states,"Bandon, OR, United States",43.118557,-124.408236
+5839,puttgarden-germany,"Puttgarden, Germany",54.496064,11.212469
+5814,rodbyhavn-denmark,"Rodbyhavn, Denmark",54.663072,11.358660
+3871,kuwait-city-kuwait,"Kuwait City, Kuwait",29.374016,47.974747
+8896,ilo-peru,"Ilo, Peru",-17.641170,-71.323707
+5930,lurin-peru,"Lurin, Peru",-12.278527,-76.874285
+9427,puerto-montt-chile,"Puerto Montt, Chile",-41.460372,-72.953414
+17032,puerto-williams-chile,"Puerto Williams, Chile",-54.935201,-67.605861
+15180,punta-arenas-chile,"Punta Arenas, Chile",-53.166655,-70.933333
+17033,tortel-chile,"Tortel, Chile",-47.801215,-73.536887
+14805,kaliko-haiti,"Kaliko, Haiti",18.864587,-72.608712
+7687,montego-bay-jamaica,"Montego Bay, Jamaica",18.469360,-77.921379
+5999,meremisa-estonia,"Meremöisa, Estonia",59.400847,24.276620
+9763,island-park-ny-united-states,"Island Park, NY, United States",40.600303,-73.655928
+9762,northport-ny-united-states,"Northport, NY, United States",40.909455,-73.344112
+5836,plerin-france,"Plerin, France",48.534742,-2.768088
+5741,skewjack-united-kingdom,"Skewjack, United Kingdom",50.063560,-5.675068
+4363,aqaba-jordan,"Aqaba, Jordan",29.531756,35.006983
+17590,geoje-south-korea,"Geoje, South Korea",34.894322,128.621167
+5889,miura-japan,"Miura, Japan",35.144034,139.620678
+3082,porthcurno-united-kingdom,"Porthcurno, United Kingdom",50.043049,-5.654512
+5855,tong-fuk-china,"Tong Fuk, China",22.227384,113.932122
+5892,wada-japan,"Wada, Japan",35.035850,140.016772
+14657,corvo-portugal,"Corvo, Portugal",39.671935,-31.110548
+14656,flores-portugal,"Flores, Portugal",39.462212,-31.128517
+10123,kaweni-mayotte,"Kaweni, Mayotte",-12.817104,45.165863
+14844,puerto-chacabuco-chile,"Puerto Chacabuco, Chile",-45.458301,-72.805099
+14843,quellon-chile,"Quellon, Chile",-43.117474,-73.479464
+19240,puerto-ayora-ecuador,"Puerto Ayora, Ecuador",-0.742407,-90.311297
+19132,puerto-baquerizo-moreno-ecuador,"Puerto Baquerizo Moreno, Ecuador",-0.909205,-89.614345
+19241,puerto-general-villamil-ecuador,"Puerto General Villamil, Ecuador",-0.961038,-90.962113
+10338,deeside-clwyd-united-kingdom,"Deeside Clwyd, United Kingdom",53.201727,-3.027560
+10907,lusk-ireland,"Lusk, Ireland",53.526254,-6.165888
+5117,novorossiysk-russia,"Novorossiysk, Russia",44.723631,37.772801
+5092,sochi-russia,"Sochi, Russia",43.615504,39.725827
+14585,markgrafenheide-germany,"Markgrafenheide, Germany",54.191405,12.149480
+5922,bonny-nigeria,"Bonny, Nigeria",4.429324,7.178429
+17230,kwa-ibo-nigeria,"Kwa Ibo, Nigeria",4.543804,7.997435
+8834,baillif-guadeloupe,"Baillif, Guadeloupe",16.028941,-61.713945
+8836,jarry-guadeloupe,"Jarry, Guadeloupe",16.243013,-61.554863
+7876,saint-barthelemy-guadeloupe,"Saint Barthelemy, Guadeloupe",17.900060,-62.833377
+7875,saint-martin-guadeloupe,"Saint Martin, Guadeloupe",18.092782,-63.050076
+10605,kungsbacka-sweden,"Kungsbacka, Sweden",57.487481,12.076238
+10606,saeby-denmark,"Saeby, Denmark",57.330829,10.516571
+13465,korsor-denmark,"Korsor, Denmark",55.325755,11.149383
+13466,nybor-denmark,"Nybor, Denmark",55.324102,10.799481
+5968,maiquetia-venezuela,"Maiquetia, Venezuela",10.599398,-66.960328
+3808,tuckerton-nj-united-states,"Tuckerton, NJ, United States",39.603885,-74.337910
+8561,st-pauls-bay-malta,"St. Paul's Bay, Malta",35.950505,14.415591
+5704,noumea-new-caledonia,"Noumea, New Caledonia",-22.303032,166.439116
+18082,mont-dore-new-caledonia,"Mont-Dore, New Caledonia",-22.265408,166.563628
+18078,quanono-new-caledonia,"Quanono, New Caledonia",-20.937043,167.260454
+4268,suva-fiji,"Suva, Fiji",-18.123812,178.437448
+18079,tadine-new-caledonia,"Tadine, New Caledonia",-21.548052,167.879521
+18080,vao-new-caledonia,"Vao, New Caledonia",-22.671929,167.494243
+18081,yate-new-caledonia,"Yate, New Caledonia",-22.158962,166.945049
+5767,bellport-ny-united-states,"Bellport, NY, United States",40.755544,-72.937814
+3067,bilbao-spain,"Bilbao, Spain",43.268344,-2.946164
+16718,aasiaat-greenland,"Aasiaat, Greenland",68.706972,-52.859117
+16719,maniitsoq-greenland,"Maniitsoq, Greenland",65.407680,-52.905723
+8488,nuuk-greenland,"Nuuk, Greenland",64.181132,-51.729967
+16720,sisimiut-greenland,"Sisimiut, Greenland",66.939467,-53.673386
+8542,milton-nl-canada,"Milton, NL, Canada",48.207613,-53.960239
+8543,qaqortoq-greenland,"Qaqortoq, Greenland",60.718937,-46.035391
+17028,dania-beach-fl-united-states,"Dania Beach, FL, United States",26.052316,-80.143941
+17027,guantanamo-bay-cuba,"Guantanamo Bay, Cuba",19.939616,-75.158166
+17029,punta-salina-pr-united-states,"Punta Salina, PR, United States",18.472994,-66.185751
+9038,coleraine-united-kingdom,"Coleraine, United Kingdom",55.130735,-6.676191
+3640,halifax-ns-canada,"Halifax, NS, Canada",44.645798,-63.573953
+5736,brean-united-kingdom,"Brean, United Kingdom",51.293737,-3.010910
+3522,cork-ireland,"Cork, Ireland",51.898335,-8.472771
+17547,beausejour-guadeloupe,"Beausejour, Guadeloupe",16.303571,-61.073869
+17549,capesterre-belle-eau-guadeloupe,"Capesterre-Belle-Eau, Guadeloupe",16.042421,-61.564689
+17546,saint-franois-guadeloupe,"Saint-François, Guadeloupe",16.251099,-61.274455
+17548,saint-louis-guadeloupe,"Saint-Louis, Guadeloupe",15.953417,-61.319096
+17550,terre-de-haut-guadeloupe,"Terre-de-Haut, Guadeloupe",15.873015,-61.578837
+5895,kita-kyushu-japan,"Kita-kyushu, Japan",33.839281,131.032013
+5886,okinawa-japan,"Okinawa, Japan",26.212414,127.680550
+10375,greve-de-lecq-jersey,"Greve de Lecq, Jersey",49.247947,-2.201438
+10374,saints-bay-guernsey,"Saints Bay, Guernsey",49.423326,-2.558029
+10232,al-daayen-qatar,"Al Daayen, Qatar",25.538589,51.451893
+10233,al-hidd-bahrain,"Al Hidd, Bahrain",26.241585,50.656191
+9683,bushehr-iran,"Bushehr, Iran",28.970011,50.842714
+8888,la-paz-mexico,"La Paz, Mexico",24.102573,-110.305482
+17245,topolobampo-mexico,"Topolobampo, Mexico",25.600695,-109.050369
+6347,freeport-tx-united-states,"Freeport, TX, United States",28.949570,-95.344370
+17157,pascagoula-ms-united-states,"Pascagoula, MS, United States",30.365757,-88.556124
+17541,wenchang-china,"Wenchang, China",20.045319,110.761812
+11754,zhuhai-china,"Zhuhai, China",22.270712,113.576727
+7879,kwajalein-marshall-islands,"Kwajalein, Marshall Islands",9.189777,167.424370
+9060,majuro-marshall-islands,"Majuro, Marshall Islands",7.116244,171.185695
+3131,kristiansand-norway,"Kristiansand, Norway",58.150956,7.996260
+17094,lecanvey-ireland,"Lecanvey, Ireland",53.770825,-9.696505
+17306,port-erin-isle-of-man,"Port Erin, Isle of Man",54.087202,-4.760451
+13370,port-grenaugh-isle-of-man,"Port Grenaugh, Isle of Man",54.099993,-4.566671
+18099,houstrup-denmark,"Houstrup, Denmark",55.764600,8.193131
+4495,newcastle-united-kingdom,"Newcastle, United Kingdom",54.978249,-1.617778
+18005,hanstholm-denmark,"Hanstholm, Denmark",57.111642,8.616177
+18006,lista-norway,"Lista, Norway",58.064440,6.786930
+16358,kapolei-hi-united-states,"Kapolei, HI, United States",21.335426,-158.056900
+16442,mangawhai-new-zealand,"Mangawhai, New Zealand",-36.126152,174.574462
+3730,pacific-city-or-united-states,"Pacific City, OR, United States",45.201925,-123.962631
+9070,pago-pago-american-samoa,"Pago Pago, American Samoa",-14.276549,-170.695713
+8973,kawaihae-hi-united-states,"Kawaihae, HI, United States",20.040297,-155.831236
+7795,kihei-maui-hi-united-states,"Kihei, Maui, HI, United States",20.782155,-156.463102
+16118,ko-olina-hi-united-states,"Ko Olina, HI, United States",21.339702,-158.119498
+16116,koko-head-hi-united-states,"Koko Head, HI, United States",21.277562,-157.696012
+4822,lihue-hi-united-states,"Lihue, HI, United States",21.974943,-159.368570
+16121,kaunakakai-hi-united-states,"Kaunakakai, HI, United States",21.093333,-157.023888
+5760,makaha-hi-united-states,"Makaha, HI, United States",21.463431,-158.220648
+16122,manele-bay-hi-united-states,"Manele Bay, HI, United States",20.743438,-156.896891
+10373,pembroke-guernsey,"Pembroke, Guernsey",49.509544,-2.537619
+7834,ishikari-japan,"Ishikari, Japan",43.171390,141.315526
+8366,nevelsk-russia,"Nevelsk, Russia",46.684449,141.859153
+14804,huahine-french-polynesia,"Huahine, French Polynesia",-16.730056,-151.000069
+14798,moorea-french-polynesia,"Moorea, French Polynesia",-17.538775,-149.829562
+8974,papenoo-french-polynesia,"Papenoo, French Polynesia",-17.512340,-149.441086
+14799,uturoa-french-polynesia,"Uturoa, French Polynesia",-16.730909,-151.443037
+14800,vaitape-french-polynesia,"Vaitape, French Polynesia",-16.506278,-151.749531
+8663,tripoli-lebanon,"Tripoli, Lebanon",34.439420,35.859131
+9595,bali-indonesia,"Bali, Indonesia",-8.464412,115.596965
+9716,balikpapan-indonesia,"Balikpapan, Indonesia",-1.265365,116.831193
+16717,madura-indonesia,"Madura, Indonesia",-6.902285,113.283466
+9720,makassar-indonesia,"Makassar, Indonesia",-5.152185,119.412392
+15115,manado-indonesia,"Manado, Indonesia",1.490880,124.839537
+16618,tarakan-indonesia,"Tarakan, Indonesia",3.327347,117.578507
+10377,archirondel-jersey,"Archirondel, Jersey",49.225279,-2.021311
+10376,havelet-bay-guernsey,"Havelet Bay, Guernsey",49.450989,-2.529514
+10378,surville-france,"Surville, France",49.283291,-1.650022
+9086,port-vila-vanuatu,"Port Vila, Vanuatu",-17.730330,168.322807
+11045,brondby-denmark,"Brondby, Denmark",55.647246,12.414909
+14586,klagshamn-sweden,"Klagshamn, Sweden",55.533293,12.916667
+3253,galway-ireland,"Galway, Ireland",53.273886,-9.048344
+15688,molvik-iceland,"Molvik, Iceland",63.846192,-22.444791
+15836,porthcressa-beach-united-kingdom,"Porthcressa Beach, United Kingdom",49.919905,-6.308173
+6016,mestre-italy,"Mestre, Italy",45.495873,12.244109
+6017,umag-croatia,"Umag, Croatia",45.433109,13.520182
+17965,aethos-greece,"Aethos, Greece",39.683615,20.015449
+6027,otranto-italy,"Otranto, Italy",40.148053,18.485706
+4058,msida-malta,"Msida, Malta",35.898707,14.488150
+6028,monte-carlo-monaco,"Monte Carlo, Monaco",43.739731,7.427217
+5880,savona-italy,"Savona, Italy",44.305540,8.483760
+5907,isla-de-cozumel-mexico,"Isla de Cozumel, Mexico",20.428644,-86.879166
+6178,playa-del-carmen-mexico,"Playa del Carmen, Mexico",20.629672,-87.070218
+7803,banjarmasin-indonesia,"Banjarmasin, Indonesia",-3.327961,114.603997
+14611,beculuk-indonesia,"Beculuk, Indonesia",-8.615634,114.097064
+14612,jimbaran-indonesia,"Jimbaran, Indonesia",-8.784071,115.159807
+14607,ketapang-indonesia,"Ketapang, Indonesia",-1.859123,109.971871
+14613,mataram-indonesia,"Mataram, Indonesia",-8.586389,116.081535
+14608,pankalan-indonesia,"Pankalan, Indonesia",-2.849667,111.752925
+8360,pontianak-indonesia,"Pontianak, Indonesia",-0.027407,109.335446
+14609,sangata-indonesia,"Sangata, Indonesia",0.326887,117.550968
+14610,toweli-indonesia,"Toweli, Indonesia",-1.142468,119.388369
+9094,sungai-kakap-indonesia,"Sungai Kakap, Indonesia",-0.067056,109.183200
+19219,bintan-indonesia,"Bintan, Indonesia",1.136696,104.425806
+17175,banyu-urip-indonesia,"Banyu Urip, Indonesia",-7.271904,112.719680
+15733,cirebon-indonesia,"Cirebon, Indonesia",-6.716667,108.566665
+17174,kendal-indonesia,"Kendal, Indonesia",-7.026549,110.187903
+10283,kuala-tungkal-indonesia,"Kuala Tungkal, Indonesia",-0.816539,103.466700
+17286,tanjung-pinggir-indonesia,"Tanjung Pinggir, Indonesia",1.133479,103.959725
+3162,cagliari-italy,"Cagliari, Italy",39.215310,9.109345
+7751,civitavecchia-italy,"Civitavecchia, Italy",42.091131,11.796843
+8592,olbia-italy,"Olbia, Italy",40.922508,9.486884
+16280,minamiboso-japan,"Minamiboso, Japan",35.043000,139.840126
+11593,maroochydore-australia,"Maroochydore, Australia",-26.651845,153.089443
+7467,akita-japan,"Akita, Japan",39.692021,140.343627
+7836,ibaraki-japan,"Ibaraki, Japan",36.342185,140.269946
+5888,miyazaki-japan,"Miyazaki, Japan",32.097662,131.294610
+7835,sendai-japan,"Sendai, Japan",38.314358,140.758202
+3687,manchester-ca-united-states,"Manchester, CA, United States",38.969207,-123.686948
+5751,morro-bay-ca-united-states,"Morro Bay, CA, United States",35.366681,-120.847203
+14269,bandar-bukit-tinggi-malaysia,"Bandar Bukit Tinggi, Malaysia",3.009280,101.436721
+9727,bandar-lampung-indonesia,"Bandar Lampung, Indonesia",-5.409291,105.254101
+16284,baturaja-indonesia,"Baturaja, Indonesia",-5.040324,103.838966
+9719,jambi-indonesia,"Jambi, Indonesia",-1.590007,103.609962
+9722,padang-indonesia,"Padang, Indonesia",-0.943868,100.361624
+9723,palembang-indonesia,"Palembang, Indonesia",-2.990975,104.757324
+9724,pekanbaru-indonesia,"Pekanbaru, Indonesia",0.533339,101.450002
+16286,rantu-prapat-indonesia,"Rantu Prapat, Indonesia",2.105137,99.827836
+16287,sibolga-indonesia,"Sibolga, Indonesia",1.747808,98.786625
+10687,tanjung-pandan-indonesia,"Tanjung Pandan, Indonesia",-2.767442,107.662889
+16285,teping-tinggi-indonesia,"Teping Tinggi, Indonesia",3.380600,99.208207
+17173,candi-kusuma-indonesia,"Candi Kusuma, Indonesia",-8.294581,114.527244
+17172,muncar-indonesia,"Muncar, Indonesia",-8.448019,114.310374
+18070,aeng-batu-batu-indonesia,"Aeng Batu Batu, Indonesia",-5.343256,119.384644
+17289,takesung-indonesia,"Takesung, Indonesia",-3.882828,114.666814
+10730,north-salina-bonaire-netherlands,"North Salina, Bonaire, Netherlands",12.163776,-68.284106
+3213,tel-aviv-israel,"Tel Aviv, Israel",32.044596,34.769679
+19247,black-river-jamaica,"Black River, Jamaica",18.023692,-77.848372
+19246,negril-jamaica,"Negril, Jamaica",18.278669,-78.348257
+3411,santos-brazil,"Santos, Brazil",-23.961845,-46.328067
+17478,cloverdale-or-united-states,"Cloverdale, OR, United States",45.231054,-123.956364
+4966,hermosa-beach-ca-united-states,"Hermosa Beach, CA, United States",33.862233,-118.399549
+6058,igneada-turkey,"Igneada, Turkey",41.884177,27.985308
+3221,istanbul-turkey,"Istanbul, Turkey",41.040611,28.986089
+6059,mangalia-romania,"Mangalia, Romania",43.817203,28.582769
+5356,varna-bulgaria,"Varna, Bulgaria",43.208379,27.912847
+8833,kourou-french-guiana,"Kourou, French Guiana",5.168299,-52.645555
+17024,schoelcher-martinique,"Schoelcher, Martinique",14.629000,-61.112138
+10322,osterby-denmark,"Osterby, Denmark",57.313456,11.199285
+10323,skalvik-sweden,"Skalvik, Sweden",56.683188,12.683268
+10321,vestero-denmark,"Vestero, Denmark",57.272250,10.966961
+15111,ilyich-russia,"Ilyich, Russia",45.423609,36.770849
+15112,kerch-ukraine,"Kerch, Ukraine",45.356982,36.477392
+8551,ketchikan-ak-united-states,"Ketchikan, AK, United States",55.342102,-131.647816
+3747,prince-rupert-bc-canada,"Prince Rupert, BC, Canada",54.313074,-130.326323
+8393,kenai-ak-united-states,"Kenai, AK, United States",60.552909,-151.259786
+8395,narrow-cape-ak-united-states,"Narrow Cape, AK, United States",57.426839,-152.329170
+4059,fukuoka-japan,"Fukuoka, Japan",33.590296,130.401642
+16740,alotau-papua-new-guinea,"Alotau, Papua New Guinea",-10.315707,150.458781
+16737,arawa-papua-new-guinea,"Arawa, Papua New Guinea",-6.225627,155.567811
+16742,daru-papua-new-guinea,"Daru, Papua New Guinea",-9.078178,143.209983
+16627,jayapura-indonesia,"Jayapura, Indonesia",-2.591561,140.669115
+16734,kavieng-papua-new-guinea,"Kavieng, Papua New Guinea",-2.578110,150.808610
+16741,kerema-papua-new-guinea,"Kerema, Papua New Guinea",-7.963732,145.771748
+16736,kimbe-papua-new-guinea,"Kimbe, Papua New Guinea",-5.551157,150.138737
+16735,kokopo-papua-new-guinea,"Kokopo, Papua New Guinea",-4.342345,152.274625
+16738,lae-papua-new-guinea,"Lae, Papua New Guinea",-6.742790,146.992963
+16733,lorengau-papua-new-guinea,"Lorengau, Papua New Guinea",-2.034974,147.279047
+8558,madang-papua-new-guinea,"Madang, Papua New Guinea",-5.233685,145.784932
+16739,popondetta-papua-new-guinea,"Popondetta, Papua New Guinea",-8.604482,148.293475
+16731,vanimo-papua-new-guinea,"Vanimo, Papua New Guinea",-2.689686,141.299852
+16732,wewak-papua-new-guinea,"Wewak, Papua New Guinea",-3.580017,143.658322
+5990,ganaveh-iran,"Ganaveh, Iran",29.570750,50.521132
+10603,khark-island-iran,"Khark Island, Iran",29.245773,50.312050
+10604,soroosh-platform-iran,"Soroosh Platform, Iran",29.072484,49.478067
+17558,san-sebastian-de-la-gomera-canary-islands-spain,"San Sebastian de la Gomera, Canary Islands, Spain",28.087965,-17.108173
+17559,valverde-canary-islands-spain,"Valverde, Canary Islands, Spain",27.820221,-17.890888
+16695,kiamsam-malaysia,"Kiamsam, Malaysia",5.255329,115.168938
+13371,ballywater-united-kingdom,"Ballywater, United Kingdom",54.542742,-5.484395
+11461,troon-united-kingdom,"Troon, United Kingdom",55.541327,-4.659932
+16018,whitehead-united-kingdom,"Whitehead, United Kingdom",54.753703,-5.718721
+5951,nynashamn-sweden,"Nynashamn, Sweden",58.902925,17.946546
+5897,ventspils-latvia,"Ventspils, Latvia",57.389531,21.569981
+14720,ciudad-lzaro-crdenas-mexico,"Ciudad Lázaro Cárdenas, Mexico",17.956771,-102.194347
+17707,ixtapa-mexico,"Ixtapa, Mexico",17.664142,-101.610507
+3843,manzanillo-mexico,"Manzanillo, Mexico",19.085821,-104.308176
+10838,al-bayda-libya,"Al Bayda, Libya",32.881727,21.741660
+7866,al-khums-libya,"Al Khums, Libya",32.649662,14.264420
+7871,benghazi-libya,"Benghazi, Libya",32.116584,20.066759
+7870,brega-libya,"Brega, Libya",30.378108,19.576525
+7873,derna-libya,"Derna, Libya",32.763553,22.639218
+7867,misrata-libya,"Misrata, Libya",32.374279,15.094790
+7869,ras-lanuf-libya,"Ras Lanuf, Libya",30.586738,18.411878
+7868,sirte-libya,"Sirte, Libya",31.205252,16.588344
+7872,tolmeta-libya,"Tolmeta, Libya",32.716732,20.949962
+7874,tubruq-libya,"Tubruq, Libya",32.079604,23.960311
+7865,zawia-libya,"Zawia, Libya",32.774720,12.529753
+7864,zuwara-libya,"Zuwara, Libya",32.933379,12.083366
+10818,port-gentil-gabon,"Port Gentil, Gabon",-0.721040,8.781611
+17299,bulobulo-indonesia,"Bulobulo, Indonesia",-5.669067,119.809270
+17296,kawinda-nae-indonesia,"Kawinda Nae, Indonesia",-8.108065,117.861563
+17295,sanur-indonesia,"Sanur, Indonesia",-8.695054,115.259612
+17298,sangatta-indonesia,"Sangatta, Indonesia",0.324519,117.535489
+17297,towale-indonesia,"Towale, Indonesia",-0.711935,119.666078
+17294,puger-indonesia,"Puger, Indonesia",-8.374136,113.456805
+5860,ancol-indonesia,"Ancol, Indonesia",-6.129363,106.833299
+17293,mentigi-indonesia,"Mentigi, Indonesia",-3.195986,107.696360
+17292,sungailiat-indonesia,"Sungailiat, Indonesia",-1.851498,106.132494
+10122,nyali-kenya,"Nyali, Kenya",-4.050504,39.700046
+9399,sainte-marie-runion,"Sainte Marie, Réunion",-20.897374,55.549937
+9400,terre-rouge-mauritius,"Terre Rouge, Mauritius",-20.077809,57.510092
+9398,toamasina-madagascar,"Toamasina, Madagascar",-18.146178,49.400332
+16620,luwuk-indonesia,"Luwuk, Indonesia",-0.938827,122.792785
+16621,tutuyan-indonesia,"Tutuyan, Indonesia",0.761437,124.574986
+16207,haines-ak-united-states,"Haines, AK, United States",59.235832,-135.444996
+5765,lena-point-ak-united-states,"Lena Point, AK, United States",58.550943,-134.747291
+16208,skagway-ak-united-states,"Skagway, AK, United States",59.458343,-135.313892
+9058,seixal-portugal,"Seixal, Portugal",38.642278,-9.107390
+6011,cherating-malaysia,"Cherating, Malaysia",4.130238,103.393653
+10985,rayong-thailand,"Rayong, Thailand",12.670663,101.277346
+16413,praia-grande-brazil,"Praia Grande, Brazil",-24.008866,-46.412491
+17134,golden-bay-malta,"Golden Bay, Malta",35.938693,14.344455
+17133,mgarr-ix-xini-malta,"Mgarr ix-Xini, Malta",36.020446,14.271323
+9028,bahar-ic-caghaq-malta,"Bahar ic-Caghaq, Malta",35.934060,14.458755
+17323,marina-di-ragusa-italy,"Marina di Ragusa, Italy",36.784806,14.550292
+17324,aitutaki-cook-islands,"Aitutaki, Cook Islands",-18.825718,-159.774900
+9089,alofi-niue,"Alofi, Niue",-19.016701,-169.916704
+5705,apia-samoa,"Apia, Samoa",-13.833676,-171.766684
+9092,rarotonga-cook-islands,"Rarotonga, Cook Islands",-21.224369,-159.769715
+17378,toahotu-french-polynesia,"To'ahotu, French Polynesia",-17.750458,-149.323364
+17464,cabo-san-juan-equatorial-guinea,"Cabo San Juan, Equatorial Guinea",1.175261,9.341401
+17463,corisco-equatorial-guinea,"Corisco, Equatorial Guinea",0.934856,9.319592
+4683,kingston-on-canada,"Kingston, ON, Canada",44.231539,-76.479337
+13409,rota-northern-mariana-islands,"Rota, Northern Mariana Islands",14.151845,145.212471
+13408,saipan-northern-mariana-islands,"Saipan, Northern Mariana Islands",15.177732,145.750948
+13410,tinian-northern-mariana-islands,"Tinian, Northern Mariana Islands",15.011127,145.637471
+3256,casablanca-morocco,"Casablanca, Morocco",33.605388,-7.631939
+3317,lome-togo,"Lome, Togo",6.126007,1.227808
+14650,ambalawi-indonesia,"Ambalawi, Indonesia",-8.319400,118.760342
+14648,ende-indonesia,"Ende, Indonesia",-8.855314,121.651551
+14653,kupang-indonesia,"Kupang, Indonesia",-10.183333,123.583312
+14651,saraemee-indonesia,"Saraemee, Indonesia",-8.796931,118.711807
+14649,sumbawa-besar-indonesia,"Sumbawa Besar, Indonesia",-8.496963,117.400968
+14652,waingapu-indonesia,"Waingapu, Indonesia",-9.646107,120.252894
+5906,baie-jacotet-mauritius,"Baie Jacotet, Mauritius",-20.473999,57.485385
+17114,grand-baie-rodrigues-mauritius,"Grand Baie (Rodrigues), Mauritius",-19.674346,63.448234
+4176,algiers-algeria,"Algiers, Algeria",36.765336,3.031810
+4196,annaba-algeria,"Annaba, Algeria",36.902344,7.755440
+8359,oran-algeria,"Oran, Algeria",35.701645,-0.641966
+3211,athens-greece,"Athens, Greece",37.976078,23.736288
+3905,haifa-israel,"Haifa, Israel",32.811416,34.998780
+8972,pozzallo-italy,"Pozzallo, Italy",36.733724,14.853872
+17228,baie-du-tombeau-mauritius,"Baie du Tombeau, Mauritius",-20.122120,57.495126
+17226,fort-dauphin-madagascar,"Fort Dauphin, Madagascar",-25.022532,46.985376
+17227,le-port-runion,"Le Port, Réunion",-20.944390,55.303282
+14343,umbogintwini-south-africa,"Umbogintwini, South Africa",-30.021650,30.901574
+18150,letkokkon-myanmar,"Letkokkon, Myanmar",16.340399,96.162002
+18151,morib-malaysia,"Morib, Malaysia",2.751191,101.443614
+17504,andalsnes-norway,"Andalsnes, Norway",62.565824,7.681587
+17506,brekstad-norway,"Brekstad, Norway",63.688408,9.663117
+17992,equinor-tjeldbergodden-norway,"Equinor Tjeldbergodden, Norway",63.387566,7.906062
+17995,flor-norway,"Florø, Norway",61.596307,4.975852
+17502,herlandsvika-norway,"Herlandsvika, Norway",62.614444,6.465756
+17501,hyllestad-norway,"Hyllestad, Norway",61.172247,5.293393
+10223,kristiansund-norway,"Kristiansund, Norway",63.110782,7.729683
+17994,lefdal-norway,"Lefdal, Norway",61.935540,5.498520
+11400,molde-norway,"Molde, Norway",62.737235,7.160738
+17500,sture-norway,"Sture, Norway",60.621978,4.855491
+4521,trondheim-norway,"Trondheim, Norway",63.431010,10.392083
+17993,heim-norway,"Åheim, Norway",62.035992,5.522348
+10224,lesund-norway,"Ålesund, Norway",62.471487,6.174386
+7843,cagayan-philippines,"Cagayan, Philippines",18.545597,121.634314
+7844,cuyapo-philippines,"Cuyapo, Philippines",15.781774,120.666468
+7842,dumaguete-philippines,"Dumaguete, Philippines",9.295611,123.281432
+7839,lucena-philippines,"Lucena, Philippines",13.935263,121.612293
+16506,kolhufushi-maldives,"Kolhufushi, Maldives",2.776764,73.424632
+16505,thinadhoo-maldives,"Thinadhoo, Maldives",0.531093,72.997679
+17075,hitiaa-french-polynesia,"Hitia'a, French Polynesia",-17.723319,-149.308121
+18161,rurutu-french-polynesia,"Rurutu, French Polynesia",-22.451280,-151.342879
+18160,tubuai-french-polynesia,"Tubuai, French Polynesia",-23.346959,-149.485919
+17070,arutua-french-polynesia,"Arutua, French Polynesia",-15.289900,-146.786153
+17072,fakarava-french-polynesia,"Fakarava, French Polynesia",-16.310313,-145.624563
+17095,hao-french-polynesia,"Hao, French Polynesia",-18.215762,-140.908089
+17077,hiva-oa-french-polynesia,"Hiva Oa, French Polynesia",-9.754676,-139.021125
+17071,kaukura-french-polynesia,"Kaukura, French Polynesia",-15.741389,-146.673842
+17073,makemo-french-polynesia,"Makemo, French Polynesia",-16.539561,-143.867191
+17068,manihi-french-polynesia,"Manihi, French Polynesia",-14.402894,-145.958145
+17076,nuku-hiva-french-polynesia,"Nuku Hiva, French Polynesia",-8.860488,-140.142096
+17069,rangiroa-french-polynesia,"Rangiroa, French Polynesia",-15.116218,-147.651307
+17067,takaroa-french-polynesia,"Takaroa, French Polynesia",-14.449769,-144.972208
+7849,levin-new-zealand,"Levin, New Zealand",-40.625284,175.285316
+7850,nelson-new-zealand,"Nelson, New Zealand",-41.272255,173.283950
+16316,lingang-china,"Lingang, China",30.935672,121.896106
+17233,seaton-sluice-united-kingdom,"Seaton Sluice, United Kingdom",55.083613,-1.474410
+5898,klaipeda-lithuania,"Klaipeda, Lithuania",55.695724,21.149990
+13064,nybro-sweden,"Nybro, Sweden",56.743800,15.908685
+7685,darwin-australia,"Darwin, Australia",-12.467491,130.843146
+5777,port-hedland-australia,"Port Hedland, Australia",-20.313458,118.577236
+17285,wurrumiyanga-australia,"Wurrumiyanga, Australia",-11.762586,130.632111
+16020,dunnet-head-united-kingdom,"Dunnet Head, United Kingdom",58.670331,-3.376584
+16021,skaill-united-kingdom,"Skaill, United Kingdom",59.051458,-3.354953
+3649,hillsboro-or-united-states,"Hillsboro, OR, United States",45.522899,-122.989801
+10857,cabinda-angola,"Cabinda, Angola",-5.556552,12.189832
+4190,luanda-angola,"Luanda, Angola",-8.812855,13.235026
+11503,soyo-angola,"Soyo, Angola",-6.141027,12.352112
+7490,kagoshima-japan,"Kagoshima, Japan",31.596550,130.557111
+17012,nago-japan,"Nago, Japan",26.591538,127.977327
+4225,muscat-oman,"Muscat, Oman",23.615093,58.591048
+10579,diba-oman,"Diba, Oman",25.616975,56.258042
+6031,jask-iran,"Jask, Iran",25.681239,57.797397
+7730,kokkini-greece,"Kokkini, Greece",39.753828,19.923986
+10790,hudishibana-aruba,"Hudishibana, Aruba",12.616634,-70.049974
+17242,mahuma-curaao,"Mahuma, Curaçao",12.168897,-68.956943
+3641,harbour-pointe-wa-united-states,"Harbour Pointe, WA, United States",47.886215,-122.302183
+17677,baler-philippines,"Baler, Philippines",15.761529,121.560182
+16672,agats-indonesia,"Agats, Indonesia",-5.535629,138.121363
+17096,baa-indonesia,"Baa, Indonesia",-10.733340,123.035265
+16681,kep-aru-indonesia,"Kep. Aru, Indonesia",-6.194645,134.550174
+17097,kokar-indonesia,"Kokar, Indonesia",-8.158311,124.453453
+17100,kota-mappi-indonesia,"Kota Mappi, Indonesia",-7.102453,139.396509
+16630,manokwari-indonesia,"Manokwari, Indonesia",-0.861469,134.061991
+16665,nabire-indonesia,"Nabire, Indonesia",-3.372234,135.501638
+16684,seba-indonesia,"Seba, Indonesia",-10.457822,121.879895
+17098,serwaru-indonesia,"Serwaru, Indonesia",-8.158118,127.691488
+17099,suemlaki-indonesia,"Suemlaki, Indonesia",-8.052229,131.213043
+16659,supiori-indonesia,"Supiori, Indonesia",-0.729511,135.638528
+17101,teluk-indonesia,"Teluk, Indonesia",-2.202374,133.482131
+16683,tiakur-indonesia,"Tiakur, Indonesia",-8.150332,127.787872
+16575,timika-indonesia,"Timika, Indonesia",-4.550263,136.889626
+16632,tual-indonesia,"Tual, Indonesia",-5.626554,132.752031
+16660,yapen-indonesia,"Yapen, Indonesia",-1.756123,136.156985
+17083,bangga-indonesia,"Bangga, Indonesia",-1.600278,123.527534
+17089,baubau-indonesia,"Baubau, Indonesia",-5.507064,122.596887
+17087,buranga-indonesia,"Buranga, Indonesia",-4.792267,122.856110
+16570,kendari-indonesia,"Kendari, Indonesia",-3.998472,122.512976
+17088,lakudo-indonesia,"Lakudo, Indonesia",-5.389118,122.559900
+17078,melonguane-indonesia,"Melonguane, Indonesia",4.042997,126.717270
+16651,morotai-indonesia,"Morotai, Indonesia",2.365656,128.400813
+16649,ondong-siau-indonesia,"Ondong Siau, Indonesia",2.754598,125.372959
+17086,raha-indonesia,"Raha, Indonesia",-4.832383,122.721081
+17082,salakan-indonesia,"Salakan, Indonesia",-1.301013,123.340197
+16623,sanana-indonesia,"Sanana, Indonesia",-2.201473,125.936997
+16622,sofifi-indonesia,"Sofifi, Indonesia",0.734974,127.561410
+16650,tahuna-indonesia,"Tahuna, Indonesia",3.611115,125.485508
+17084,taliabu-indonesia,"Taliabu, Indonesia",-1.826840,124.774058
+17080,terante-indonesia,"Terante, Indonesia",0.795809,127.361337
+17081,tidore-indonesia,"Tidore, Indonesia",0.674005,127.404086
+17079,tobelo-indonesia,"Tobelo, Indonesia",1.714584,127.967855
+17085,wawonii-indonesia,"Wawonii, Indonesia",-4.136149,123.123888
+19215,bengkalis-indonesia,"Bengkalis, Indonesia",1.489196,102.080104
+19217,karimun-indonesia,"Karimun, Indonesia",0.769810,103.404884
+16645,lingga-indonesia,"Lingga, Indonesia",-0.162759,104.635449
+16642,natuna-indonesia,"Natuna, Indonesia",3.945664,108.142869
+19218,ranai-indonesia,"Ranai, Indonesia",3.940902,108.377488
+17091,singkawang-indonesia,"Singkawang, Indonesia",0.906014,108.987204
+19243,tebingtinggi-island-indonesia,"Tebingtinggi Island, Indonesia",0.932560,102.667020
+14753,san-jose-de-buenavista-philippines,"San Jose de Buenavista, Philippines",10.748806,121.941296
+5925,fort-amador-panama,"Fort Amador, Panama",8.934110,-79.546732
+3470,mazatln-mexico,"Mazatlán, Mexico",23.199540,-106.421866
+3484,tijuana-mexico,"Tijuana, Mexico",32.530850,-117.038222
+7981,unqui-costa-rica,"Unqui, Costa Rica",9.525856,-84.454273
+5800,arica-chile,"Arica, Chile",-18.473370,-70.306749
+6093,colon-panama,"Colon, Panama",9.353720,-79.900028
+3334,panama-city-panama,"Panama City, Panama",8.964605,-79.536698
+5824,punta-carnero-ecuador,"Punta Carnero, Ecuador",-2.272915,-80.914431
+4359,st-thomas-virgin-islands-u-s-,"St. Thomas, Virgin Islands (U.S.)",18.324512,-64.904421
+8396,bredene-belgium,"Bredene, Belgium",51.246385,2.961889
+8397,dumpton-gap-united-kingdom,"Dumpton Gap, United Kingdom",51.358582,1.439331
+8407,ballinesker-ireland,"Ballinesker, Ireland",52.401460,-6.364863
+8406,ballygrangans-ireland,"Ballygrangans, Ireland",52.184076,-6.558808
+17139,hawaii-kai-hi-united-states,"Hawaii Kai, HI, United States",21.272000,-157.668900
+17138,kekaha-hi-united-states,"Kekaha, HI, United States",21.970305,-159.724201
+17136,lahaina-hi-united-states,"Lahaina, HI, United States",20.900904,-156.684500
+17135,makena-hi-united-states,"Makena, HI, United States",20.663598,-156.439999
+16617,muntok-indonesia,"Muntok, Indonesia",-2.065155,105.164258
+17288,sungsang-indonesia,"Sungsang, Indonesia",-2.295322,104.874487
+16371,gwadar-pakistan,"Gwadar, Pakistan",25.132264,62.324970
+17305,hobyo-somalia,"Hobyo, Somalia",5.350157,48.522036
+17304,kismayo-somalia,"Kismayo, Somalia",-0.362712,42.545161
+4362,victoria-seychelles,"Victoria, Seychelles",-4.617612,55.445054
+7762,gav-spain,"Gavá, Spain",41.304003,2.001342
+7777,chipiona-spain,"Chipiona, Spain",36.731307,-6.428876
+16517,tarahales-spain,"Tarahales, Spain",28.096375,-15.450745
+9374,new-victoria-ns-canada,"New Victoria, NS, Canada",46.252907,-60.129571
+9375,rose-blanche-nl-canada,"Rose Blanche, NL, Canada",47.617689,-58.686603
+10307,sakra-island-singapore,"Sakra Island, Singapore",1.258916,103.704200
+14839,mouly-new-caledonia,"Mouly, New Caledonia",-20.705938,166.489019
+14837,poindimie-new-caledonia,"Poindimie, New Caledonia",-20.945879,165.341559
+14838,xepenehe-new-caledonia,"Xepenehe, New Caledonia",-20.780916,167.151323
+16053,butuan-city-philippines,"Butuan City, Philippines",8.947615,125.540610
+16050,cadiz-city-philippines,"Cadiz City, Philippines",10.950026,123.299987
+9384,calbayog-philippines,"Calbayog, Philippines",12.069906,124.600279
+3901,cebu-philippines,"Cebu, Philippines",10.310033,123.894615
+16048,legazpi-city-philippines,"Legazpi City, Philippines",13.139089,123.743737
+9603,nasugbu-philippines,"Nasugbu, Philippines",14.088187,120.623011
+16052,ozamiz-city-philippines,"Ozamiz City, Philippines",8.150029,123.849986
+16046,pinamalayan-philippines,"Pinamalayan, Philippines",13.045779,121.464539
+16730,kikori-papua-new-guinea,"Kikori, Papua New Guinea",-7.413514,144.240206
+17274,brnnysund-norway,"Brønnøysund, Norway",65.473562,12.207744
+15397,narvik-norway,"Narvik, Norway",68.420557,17.559998
+17276,nesna-norway,"Nesna, Norway",66.198074,13.018192
+17273,rrvik-norway,"Rørvik, Norway",64.862077,11.237347
+17275,sandnessjen-norway,"Sandnessjøen, Norway",66.021549,12.631462
+10710,antofagasta-chile,"Antofagasta, Chile",-23.650001,-70.399998
+10709,iquique-chile,"Iquique, Chile",-20.216705,-70.142222
+10712,la-serena-chile,"La Serena, Chile",-29.906307,-71.250205
+17300,talcahuano-chile,"Talcahuano, Chile",-36.724786,-73.116988
+3858,abu-dhabi-united-arab-emirates,"Abu Dhabi, United Arab Emirates",24.443786,54.418883
+6020,das-island-united-arab-emirates,"Das Island, United Arab Emirates",25.152636,52.865955
+6019,halul-island-qatar,"Halul Island, Qatar",25.668565,52.420252
+16438,kotzebue-ak-united-states,"Kotzebue, AK, United States",66.898343,-162.596669
+16437,nome-ak-united-states,"Nome, AK, United States",64.501114,-165.406410
+16440,point-hope-ak-united-states,"Point Hope, AK, United States",68.347767,-166.808069
+13390,prudhoe-bay-ak-united-states,"Prudhoe Bay, AK, United States",70.255640,-148.338447
+16441,utqiavik-ak-united-states,"Utqiaġvik, AK, United States",71.290551,-156.788639
+16439,wainwright-ak-united-states,"Wainwright, AK, United States",70.636951,-160.038345
+17268,rdvig-denmark,"Rødvig, Denmark",55.256141,12.371851
+17269,rnne-denmark,"Rønne, Denmark",55.101017,14.708324
+17272,portrane-ireland,"Portrane, Ireland",53.493201,-6.114622
+5362,nakhodka-russia,"Nakhodka, Russia",42.812310,132.874004
+5529,naoetsu-japan,"Naoetsu, Japan",37.169747,138.242164
+7802,surabaya-indonesia,"Surabaya, Indonesia",-7.258580,112.746674
+17405,gallows-bay-bonaire-sint-eustatius-and-saba,"Gallows Bay, Bonaire, Sint Eustatius and Saba",17.475917,-62.985526
+16123,great-bay-beach-saint-martin,"Great Bay Beach, Saint Martin",18.024471,-63.055057
+17404,great-level-bay-bonaire-sint-eustatius-and-saba,"Great Level Bay, Bonaire, Sint Eustatius and Saba",17.615121,-63.244217
+15452,gustavia-saint-barthlemy,"Gustavia, Saint Barthélemy",17.897916,-62.850549
+4322,cochin-india,"Cochin, India",9.938085,76.269551
+5978,saint-paul-runion,"Saint Paul, Réunion",-21.000249,55.279137
+17110,krabozavodskoye-russia,"Krabozavodskoye, Russia",43.793620,146.747236
+17108,kurilsk-russia,"Kurilsk, Russia",45.086681,147.881488
+17109,yuzhno-kurilsk-russia,"Yuzhno Kurilsk, Russia",44.034523,145.858613
+4278,yuzhno-sakhalinsk-russia,"Yuzhno-Sakhalinsk, Russia",46.948976,142.726218
+15182,san-andres-colombia,"San Andres, Colombia",12.584696,-81.700564
+5775,cacuaco-angola,"Cacuaco, Angola",-8.776676,13.372330
+4210,douala-cameroon,"Douala, Cameroon",4.047150,9.706317
+8401,bunkeflostand-sweden,"Bunkeflostand, Sweden",55.556809,12.918717
+8400,dragor-denmark,"Dragor, Denmark",55.593536,12.670182
+7732,donaghadee-united-kingdom,"Donaghadee, United Kingdom",54.642868,-5.538789
+7731,portpatrick-united-kingdom,"Portpatrick, United Kingdom",54.843724,-5.115547
+13378,girvan-united-kingdom,"Girvan, United Kingdom",55.240208,-4.854219
+11390,larne-united-kingdom,"Larne, United Kingdom",54.857492,-5.809883
+16518,kauditan-indonesia,"Kauditan, Indonesia",1.378623,125.065611
+16966,magachgil-yap-micronesia,"Magachgil, Yap",9.443923,138.061500
+17232,crescent-beach-ri-united-states,"Crescent Beach, RI, United States",41.191958,-71.593676
+17231,narragansett-ri-united-states,"Narragansett, RI, United States",41.441373,-71.442809
+18148,coffman-cove-ak-united-states,"Coffman Cove, AK, United States",56.015204,-132.829512
+5853,deep-water-bay-china,"Deep Water Bay, China",22.249439,114.183978
+3292,goonhilly-downs-united-kingdom,"Goonhilly Downs, United Kingdom",50.024803,-5.174531
+5959,marmaris-turkey,"Marmaris, Turkey",36.855249,28.253668
+5911,pyapon-myanmar,"Pyapon, Myanmar",16.282200,95.681940
+5900,taipa-china,"Taipa, China",22.156131,113.561029
+6299,coxs-bazar-bangladesh,"Cox’s Bazar, Bangladesh",21.429180,91.994931
+15020,kuakata-bangladesh,"Kuakata, Bangladesh",21.816736,90.116612
+15021,matara-sri-lanka,"Matara, Sri Lanka",5.940833,80.539861
+10684,qalhat-oman,"Qalhat, Oman",23.615093,58.591048
+5346,toulon-france,"Toulon, France",43.125293,5.930343
+10399,clarenville-nl-canada,"Clarenville, NL, Canada",48.168223,-53.964549
+10398,iqaluit-nu-canada,"Iqaluit, NU, Canada",63.748612,-68.519726
+16013,linao-chile,"Linao, Chile",-41.991131,-73.504464
+16012,meimen-chile,"Meimen, Chile",-41.806922,-73.155294
+8682,ayre-of-cara-united-kingdom,"Ayre of Cara, United Kingdom",58.833272,-2.900119
+16809,bp-clair-ridge-united-kingdom,"BP Clair Ridge, United Kingdom",60.441049,-2.294930
+8680,banff-united-kingdom,"Banff, United Kingdom",57.666865,-2.523654
+10353,glen-lyon-united-kingdom,"Glen Lyon, United Kingdom",60.333074,-4.333419
+8684,maywick-united-kingdom,"Maywick, United Kingdom",60.003984,-1.323802
+8683,sandwick-united-kingdom,"Sandwick, United Kingdom",59.995976,-1.238694
+8681,torshavn-faroe-islands,"Torshavn, Faroe Islands",62.017460,-6.771845
+16372,thanlyin-myanmar,"Thanlyin, Myanmar",16.758744,96.248224
+16758,baie-longue-saint-martin,"Baie Longue, Saint Martin",18.059651,-63.145706
+10783,philipsburg-sint-maarten,"Philipsburg, Sint Maarten",18.030205,-63.045828
+9018,sharjah-united-arab-emirates,"Sharjah, United Arab Emirates",25.352333,55.392192
+18083,sir-abu-nuayr-island-united-arab-emirates,"Sir Abu Nu'Ayr Island, United Arab Emirates",25.240836,54.221119
+13377,carrickfergus-united-kingdom,"Carrickfergus, United Kingdom",54.713670,-5.808174
+13376,saltcoats-united-kingdom,"Saltcoats, United Kingdom",55.637580,-4.783516
+7811,bintulu-malaysia,"Bintulu, Malaysia",3.197004,113.068354
+6009,kota-kinabalu-malaysia,"Kota Kinabalu, Malaysia",5.981335,116.074308
+7809,miri-malaysia,"Miri, Malaysia",4.425300,114.007415
+17291,bawean-indonesia,"Bawean, Indonesia",-5.793491,112.585615
+7847,kalianda-indonesia,"Kalianda, Indonesia",-5.769253,105.584912
+17290,ujung-pankah-indonesia,"Ujung Pankah, Indonesia",-6.953338,112.598237
+17309,hirtshals-denmark,"Hirtshals, Denmark",57.588194,9.959261
+15392,larvik-norway,"Larvik, Norway",59.081111,10.016390
+16362,tjele-denmark,"Tjele, Denmark",56.510801,9.611689
+16571,ambon-indonesia,"Ambon, Indonesia",-3.655379,128.190706
+16626,bandaneria-indonesia,"Bandaneria, Indonesia",-4.520181,129.872053
+16574,fakfak-indonesia,"Fakfak, Indonesia",-3.097770,133.019414
+16636,labuha-indonesia,"Labuha, Indonesia",-0.626796,127.480453
+16625,masohi-indonesia,"Masohi, Indonesia",-3.297836,128.955256
+16624,namlea-indonesia,"Namlea, Indonesia",-3.233415,127.085824
+16573,sorong-indonesia,"Sorong, Indonesia",-0.882072,131.295391
+16572,ternate-indonesia,"Ternate, Indonesia",0.789852,127.375375
+16629,biak-indonesia,"Biak, Indonesia",-1.163472,136.053298
+16633,kaimana-indonesia,"Kaimana, Indonesia",-3.679353,133.791483
+16576,merauke-indonesia,"Merauke, Indonesia",-8.499087,140.405053
+16628,sarmi-indonesia,"Sarmi, Indonesia",-2.175235,139.353296
+16631,waisai-indonesia,"Waisai, Indonesia",-0.383361,130.857599
+3145,oxwich-bay-united-kingdom,"Oxwich Bay, United Kingdom",51.557783,-4.169601
+17334,allen-philippines,"Allen, Philippines",12.501380,124.282347
+17333,santa-magdalena-philippines,"Santa Magdalena, Philippines",12.645301,124.107091
+8484,mancora-peru,"Mancora, Peru",-4.154046,-81.053787
+5849,puerto-san-jose-guatemala,"Puerto San Jose, Guatemala",13.934612,-90.822219
+5806,buenaventura-colombia,"Buenaventura, Colombia",3.883675,-77.040301
+5967,puerto-viejo-venezuela,"Puerto Viejo, Venezuela",10.611205,-67.029956
+10727,sangano-angola,"Sangano, Angola",-9.490068,13.201444
+9789,salinas-ecuador,"Salinas, Ecuador",-2.228488,-81.009062
+10309,telisai-brunei,"Telisai, Brunei",4.703722,114.570599
+16975,baie-mahault-guadeloupe,"Baie-Mahault, Guadeloupe",16.244480,-61.571725
+18087,bunkum-bay-montserrat,"Bunkum Bay, Montserrat",16.772302,-62.220170
+8835,canefield-dominica,"Canefield, Dominica",15.303329,-61.384843
+18090,dickenson-bay-antigua-and-barbuda,"Dickenson Bay, Antigua and Barbuda",17.159563,-61.846850
+6183,needhams-point-barbados,"Needham’s Point, Barbados",13.078789,-59.612725
+8837,rodney-bay-saint-lucia,"Rodney Bay, Saint Lucia",14.035627,-60.988554
+16976,st-louis-saint-martin,"St. Louis, Saint Martin",18.089929,-63.078145
+6097,alexandria-australia,"Alexandria, Australia",-33.913674,151.196209
+5781,brookvale-australia,"Brookvale, Australia",-33.761157,151.273991
+5753,kahe-point-hi-united-states,"Kahe Point, HI, United States",21.353982,-158.130582
+5752,spencer-beach-hi-united-states,"Spencer Beach, HI, United States",20.023105,-155.822087
+5918,takapuna-new-zealand,"Takapuna, New Zealand",-36.787834,174.767921
+5919,whenuapai-new-zealand,"Whenuapai, New Zealand",-36.788806,174.623388
+17031,kiritimati-kiribati,"Kiritimati, Kiribati",1.872139,-157.427812
+17030,nukunonu-tokelau,"Nukunonu, Tokelau",-9.174597,-171.811506
+17015,savusavu-fiji,"Savusavu, Fiji",-16.808012,179.349750
+17235,fortune-nl-canada,"Fortune, NL, Canada",47.071982,-55.827287
+17234,lamaline-nl-canada,"Lamaline, NL, Canada",46.868952,-55.803275
+17236,miquelon-langlade-saint-pierre-and-miquelon,"Miquelon-Langlade, Saint Pierre and Miquelon",47.083668,-56.349923
+17237,saint-pierre-saint-pierre-and-miquelon,"Saint-Pierre, Saint Pierre and Miquelon",46.775843,-56.180631
+13401,banana-bay-virgin-islands-u-s-,"Banana Bay, Virgin Islands (U.S.)",18.328220,-64.943776
+13398,brewers-bay-virgin-islands-u-s-,"Brewer's Bay, Virgin Islands (U.S.)",18.342403,-64.975319
+13396,christiansted-vi-united-states,"Christiansted, VI, United States",17.746661,-64.703151
+13400,flamingo-bay-virgin-islands-u-s-,"Flamingo Bay, Virgin Islands (U.S.)",18.312830,-64.957790
+13399,great-bay-virgin-islands-u-s-,"Great Bay, Virgin Islands (U.S.)",18.322472,-64.843190
+13402,vila-olga-virgin-islands-u-s-,"Vila Olga, Virgin Islands (U.S.)",18.335728,-64.948024
+16711,bomba-belize,"Bomba, Belize",17.925613,-88.294456
+16710,san-pedro-belize,"San Pedro, Belize",17.911037,-87.978342
+14645,las-caletillas-spain,"Las Caletillas, Spain",28.377279,-16.362365
+14646,piedra-santa-spain,"Piedra Santa, Spain",28.040622,-15.408802
+3904,georgetown-guyana,"Georgetown, Guyana",6.804497,-58.154841
+9669,totness-suriname,"Totness, Suriname",5.886582,-56.375386
+9671,breivika-norway,"Breivika, Norway",68.735047,16.553188
+9672,longyearbyen-svalbard-norway,"Longyearbyen, Svalbard, Norway",78.218527,15.648794
+5828,krdla-estonia,"Kärdla, Estonia",59.000860,22.738046
+6171,norrtalge-sweden,"Norrtalge, Sweden",59.759662,18.701331
+3126,turku-finland,"Turku, Finland",60.449310,22.259238
+6000,vdd-sweden,"Väddö, Sweden",59.983381,18.816565
+7412,farosund-sweden,"Farosund, Sweden",57.862980,19.055334
+10498,taba-egypt,"Taba, Egypt",29.492578,34.894874
+6084,condado-beach-pr-united-states,"Condado Beach, PR, United States",18.459899,-66.077955
+8620,fuzhou-china,"Fuzhou, China",26.071095,119.303212
+3537,aberdeen-united-kingdom,"Aberdeen, United Kingdom",57.153794,-2.106809
+15386,farsund-norway,"Farsund, Norway",58.082773,6.752804
+16556,ygarden-norway,"Øygarden, Norway",60.587347,4.830247
+16619,tanjung-selor-indonesia,"Tanjung Selor, Indonesia",2.572032,117.819424
+15884,raglan-new-zealand,"Raglan, New Zealand",-37.801382,174.871825
+5745,highbridge-united-kingdom,"Highbridge, United Kingdom",51.222225,-2.975021
+10682,al-kheesa-qatar,"Al-Kheesa, Qatar",25.294341,51.519374
+10683,amwaj-island-bahrain,"Amwaj Island, Bahrain",26.228972,50.575820
+8541,ballesteros-philippines,"Ballesteros, Philippines",18.409408,121.513953
+5894,emi-japan,"Emi, Japan",35.062382,140.061108
+5893,toyohashi-japan,"Toyohashi, Japan",34.769059,137.391578
+7778,sardina-canary-islands-spain,"Sardina, Canary Islands, Spain",28.149918,-15.694032
+17557,los-realejos-canary-islands-spain,"Los Realejos, Canary Islands, Spain",28.397552,-16.586439
+15031,fish-camp-ak-united-states,"Fish Camp, AK, United States",59.949200,-154.858855
+15033,igiugig-ak-united-states,"Igiugig, AK, United States",59.327800,-155.894743
+15027,illiamna-ak-united-states,"Illiamna, AK, United States",59.754765,-154.906121
+15028,kokhanok-ak-united-states,"Kokhanok, AK, United States",59.442158,-154.752752
+15029,newhalen-ak-united-states,"Newhalen, AK, United States",59.718145,-154.899773
+15030,nondalton-ak-united-states,"Nondalton, AK, United States",59.972650,-154.847723
+15025,pedro-bay-ak-united-states,"Pedro Bay, AK, United States",59.787212,-154.106122
+15026,pile-bay-ak-united-states,"Pile Bay, AK, United States",59.776054,-153.880487
+15032,port-alsworth-ak-united-states,"Port Alsworth, AK, United States",60.200372,-154.336932
+15024,williamsport-ak-united-states,"Williamsport, AK, United States",59.682403,-153.632147
+14647,el-quawef-libya,"El-Quawef, Libya",31.760813,25.087361
+17674,atafu-tokelau,"Atafu, Tokelau",-8.559090,-172.510886
+17673,fakaofa-tokelau,"Fakaofa, Tokelau",-9.383816,-171.261470
+9087,nukualofa-tonga,"Nuku'alofa, Tonga",-21.133286,-175.200032
+17156,neiafu-tonga,"Neiafu, Tonga",-18.647685,-173.983685
+17155,pangai-tonga,"Pangai, Tonga",-19.811428,-174.350261
+5701,aktau-kazakhstan,"Aktau, Kazakhstan",43.650005,51.199989
+3711,nedonna-beach-or-united-states,"Nedonna Beach, OR, United States",45.643734,-123.940072
+17555,aguimes-canary-islands-spain,"Aguimes, Canary Islands, Spain",27.895462,-15.390735
+17552,arrecife-canary-islands-spain,"Arrecife, Canary Islands, Spain",28.959501,-13.547597
+17554,morrojable-canary-islands-spain,"Morrojable, Canary Islands, Spain",27.745256,-15.590405
+17553,puerto-del-rosario-canary-islands-spain,"Puerto del Rosario, Canary Islands, Spain",28.496503,-13.862208
+5721,gran-canaria-canary-islands-spain,"Gran Canaria, Canary Islands, Spain",27.957759,-15.596594
+7781,lanzarote-canary-islands-spain,"Lanzarote, Canary Islands, Spain",29.038508,-13.650404
+5876,trapani-italy,"Trapani, Italy",38.017952,12.513640
+14807,pigeon-point-trinidad-and-tobago,"Pigeon Point, Trinidad and Tobago",11.165410,-60.840312
+14806,toco-trinidad-and-tobago,"Toco, Trinidad and Tobago",10.831138,-60.949687
+17016,leava-wallis-and-futuna,"Leava, Wallis and Futuna",-14.296838,-178.158108
+16955,mata-utu-wallis-and-futuna,"Mata-Utu, Wallis and Futuna",-13.282001,-176.175000
+16520,tuasivi-samoa,"Tuasivi, Samoa",-13.670594,-172.178161
+9661,girne-cyprus,"Girne, Cyprus",35.299123,33.236281
+9080,mersin-turkey,"Mersin, Turkey",36.799985,34.633350
+10383,iskele-cyprus,"Iskele, Cyprus",35.284388,33.919475
+10382,samandag-turkey,"Samandag, Turkey",36.082338,35.999267
+17278,hemnesberget-norway,"Hemnesberget, Norway",66.224161,13.624454
+17279,mo-i-rana-norway,"Mo I Rana, Norway",66.313711,14.141983
+17277,utskarpen-norway,"Utskarpen, Norway",66.292959,13.563627
+10381,dartmouth-united-kingdom,"Dartmouth, United Kingdom",50.351742,-3.578390
+10379,st-ouens-bay-jersey,"St. Ouens Bay, Jersey",49.215711,-2.225901
+17303,annobon-equatorial-guinea,"Annobon, Equatorial Guinea",-1.435135,5.636850
+10414,ijmuiden-netherlands,"Ijmuiden, Netherlands",52.458518,4.613685
+4992,redondo-beach-ca-united-states,"Redondo Beach, CA, United States",33.844472,-118.388025
+7862,cabimas-venezuela,"Cabimas, Venezuela",10.395953,-71.451096
+7789,carpano-venezuela,"Carúpano, Venezuela",10.666800,-63.250528
+7863,chichiriviche-venezuela,"Chichiriviche, Venezuela",10.928573,-68.284497
+7785,coro-venezuela,"Coro, Venezuela",11.402807,-69.677818
+7787,cuman-venezuela,"Cumaná, Venezuela",10.454299,-64.182119
+17038,higuerote-venezuela,"Higuerote, Venezuela",10.480348,-66.098109
+4314,maracaibo-venezuela,"Maracaibo, Venezuela",10.688212,-71.598386
+7788,porlamar-venezuela,"Porlamar, Venezuela",10.955252,-63.847610
+7786,puerto-cabello-venezuela,"Puerto Cabello, Venezuela",10.478127,-68.009582
+7348,puerto-la-cruz-venezuela,"Puerto La Cruz, Venezuela",10.202538,-64.644875
+7194,westbury-ny-united-states,"Westbury, NY, United States",40.757104,-73.586826
+9846,limbe-cameroon,"Limbe, Cameroon",4.014516,9.208466
+9844,yzerfontein-south-africa,"Yzerfontein, South Africa",-33.348224,18.155530
+17706,pegwell-barbados,"Pegwell, Barbados",13.062605,-59.536334

@@ -1,4 +1,4 @@
-package complejidad.problema3;
+
 
 public class Cliente {
     private String tipo;

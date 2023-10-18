@@ -1,4 +1,4 @@
-package complejidad.problema3;
+
 
 public class Tienda {
     public static void main(String[] args){

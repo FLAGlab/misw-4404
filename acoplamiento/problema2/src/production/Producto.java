@@ -1,4 +1,5 @@
-package acoplamiento.problema2;
+package production;
+
 
 public class Producto {
     public String nombre;

@@ -1,4 +1,5 @@
-package acoplamiento.problema2;
+package production;
+
 
 // import hashmap
 import java.util.HashMap;

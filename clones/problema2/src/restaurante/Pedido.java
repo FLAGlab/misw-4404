@@ -1,4 +1,4 @@
-package clones.problema2;
+package restaurante;
 
 import java.util.ArrayList;
 

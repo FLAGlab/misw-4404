@@ -8,4 +8,4 @@ En particular, nos centramos en tres grandes aspectos de la calidad de Software.
 - Clonación de código. En este aspecto nos concentramos en los **fragmentos repetidos** de código como una medida de calidad. La presencia de duplicación de código tiene como consecuencia directa problemas de mantenimiento dentro del código.
 
 
-Así mismo el repositorio contiene el código de programas de ejemplo utilizados para el trabajo práctico (**sesiones***) durante las sesiones de clase.
+Así mismo el repositorio contiene el código de programas de ejemplo utilizados para el trabajo práctico (**sesiones**) durante las sesiones de clase.
